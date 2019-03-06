@@ -45,12 +45,12 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Committee"}
- - {permalink: "/venue/", text: "Venue"}
  - {permalink: "/callposters/", text: "Call for Posters"}
+ - {permalink: "/venue/", text: "Venue"}
+ - {permalink: "/blog/", text: "Blog"}
 
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a Sponsor"}
@@ -70,7 +70,9 @@ heroButtons:
 
 # About Block
 aboutTitle: "About GDG DevFest"
+
 aboutBlock:
+  {text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
