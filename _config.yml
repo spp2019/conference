@@ -36,7 +36,9 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
+# link al google doc (ex per call for posters)
 c4pUrl: "https://bit.ly/dfua-c4p"
+# go to pdf "how to become sponsor"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -44,15 +46,16 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/team/", text: "Committee"}
+ - {permalink: "/venue/", text: "Venue"}
+ - {permalink: "/callposters/", text: "Call for Posters"}
+
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a Sponsor"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register"}
 
 # Hero Block
 heroImage: "img/logo/ods.jpg"
@@ -61,8 +64,9 @@ eventDate: "Saturday 26th October 2019"
 typeoutTextValues: '"", "Science", "Policy", "Public"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register"}
+ - {permalink: "/#callposters", text: "Submit a Poster"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
