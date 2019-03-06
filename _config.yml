@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Science Policy and the Public in Italy"
 email: "spp2019.cambridge@gmail.com"
 description: ""
-#baseurl: "/zeppelin"
+baseurl: "/zeppelin"
 url: "https://spp2019.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "" #TODO
