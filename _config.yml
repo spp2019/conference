@@ -25,7 +25,7 @@ organizerName: "GDG Lviv"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and  geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/logo/nero.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "img/logo/ods.jpg"
 heroTitle: "SPP <typeout> 2019"
 eventDate: "Saturday 26th October, 2019"
 typeoutTextValues: '"", "Science", "Policy", "Public"'
