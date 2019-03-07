@@ -10,77 +10,93 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "oisehfosrihfd"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Science Policy and the Public in Italy"
+email: "spp2019.cambridge@gmail.com"
+description: ""
 baseurl: "/zeppelin"
-url: "http://spp2019.github.io"
+url: "https://spp2019.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: "" #TODO
 googleAnalyticsSiteUrl: "spp2019.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: "" #TODO
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and  geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/logo/nero.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "SPP"
+organizerAlternateName: ""
+organizerDescription: ""
+organizerEmail: "spp2019.cambridge@gmail.com"
+organizerLogo: "/logo/nero.png"
+organizerLink: ""
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "science, policy, research, public, Italy, UK"
+twitterAccount: "" #TODO
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+# link al google doc (ex per call for posters)
+c4pUrl: "https://bit.ly/dfua-c4p"
+# go to pdf "how to become sponsor"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/team/", text: "Committee"}
+ - {permalink: "/callposters/", text: "Call for Posters"}
+ - {permalink: "/venue/", text: "Venue"}
+ - {permalink: "/blog/", text: "Blog"}
+
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a Sponsor"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register"}
 
 # Hero Block
-heroImage: "img/logo/ods.jpg"
+heroImage: "/ods_tramonto.jpg"
 heroTitle: "SPP <typeout> 2019"
-eventDate: "Saturday 26th October, 2019"
+eventDate: "Saturday 26th October 2019"
 typeoutTextValues: '"", "Science", "Policy", "Public"'
-typeoutFallback: "Season"
+typeoutFallback: ""
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register"}
+ - {permalink: "/#callposters", text: "Submit a Poster"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
+
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+# intro su conf
+#{text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
+
+ # qui spieghiamo i temi
+ - {title: "Energy and the environment", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Public Health and Biotechnology", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Digital technologies", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+
+ # format della conf
+ #{text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
+
+ - {title: "Talks and Panel Sessions", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Student Poster", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Networking", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+#statisticBlockImage: "statistic.jpg"
+#statisticBlock:
+# - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+# - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+# - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+# - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+#latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -127,7 +143,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
