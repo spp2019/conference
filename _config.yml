@@ -39,7 +39,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # link al google doc (ex per call for posters)
 c4pUrl: "https://bit.ly/dfua-c4p"
 # go to pdf "how to become sponsor"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/SPP_Italy_sponsorship.pdf"
 
 
 # Navigation
@@ -65,7 +65,7 @@ typeoutFallback: ""
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Register"}
  - {permalink: "/#callposters", text: "Submit a Poster"}
- - {link: "https://bit.ly/dfua-c4p", text: "Become a sponsor"}
+ - {permalink: "/assets/SPP_Italy_sponsorship.pdf", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About"
@@ -75,9 +75,20 @@ aboutBlock:
 #{text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
 
  # qui spieghiamo i temi
- - {title: "Energy and the environment", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Public Health and Biotechnology", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Digital technologies", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Energy and the environment", image: "conference.jpg", text: "" }
+ - {title: "Public Health and Biotechnology", image: "workshop.jpg", text: "" }
+ - {title: "Digital technologies<br><br>", image: "hackathon.jpg", text: "" }
+
+aboutBlock2:
+# intro su conf
+#{text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
+
+ # qui spieghiamo i temi
+ - {title: "Talks", image: "conference.jpg", text: "Invited speakers and discussions for each of the 3 themes" }
+ - {title: "Panel Discussion", image: "workshop.jpg", text: "about the relationship between science and policy in Italy" }
+ - {title: "Poster Session", image: "workshop.jpg", text: "with work presented by young researchers" }
+ - {title: "Networking", image: "hackathon.jpg", text: "---" }
+
 
 # Statistic Block
 #statisticBlockImage: "statistic.jpg"
@@ -93,7 +104,7 @@ aboutBlock:
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -114,22 +125,28 @@ mapMobileCenterCoordinates: "52.207899, 0.118436"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+# non so se possiamo usare questa:
+#https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5a7363d84c326d7ca63c9d5c%2F5ad224d603ce641bc87d0724%2F5ad226b98a922d44a44626b7%2F1523723182789%2Fas.jpg%3Fformat%3D1000w&imgrefurl=https%3A%2F%2Fwww.charliedraper.co.uk%2Fevents%2F2018%2F5%2F17%2Frecital-at-st-johns-college-cambridge&docid=snCsVEA-dKMruM&tbnid=L7mfyDLrTenOcM%3A&vet=1&w=905&h=562&bih=691&biw=1160&ved=2ahUKEwiGyqqCi_PgAhVGUhoKHcHACuEQxiAoAXoECAEQFQ&iact=c&ictx=1
+#venueBigImage: "ods_interno_2.jpg"
+# se no, cambia a:
+#ods_passage.jpg
+venueBigImage: "ods_interno_1.jpg"
+venueSmallImage1: "ods.jpg"
+venueSmallImage2: "ods_lighfoot.jpg"
+#ods_interni.jpg"
+venueSmallImage3: "ods_lighfoot.jpg"
 venueTitle: "Old Divinity School"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["180-seat lecture theatre", "---", "---"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "ods_passage.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "spp2019"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block

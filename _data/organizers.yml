@@ -1,10 +1,13 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "SPP - Science Policy and the Public", description: "SPP - Science Policy and the Public", link: "https://spp2019.github.io/zeppelin/", image: "nero.png", width: "120"}
 - 
-  group: "Co-organizers"
+  group: "Co-organized by"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "Cambridge University Italian Society", description: "Cambridge University Italian Society", link: "http://www.cuitaliansociety.org.uk/", image: "cuit_logo.png", width: "120px"}
+    - {name: "Association of Italian Scientists in the UK", description: "Association of Italian Scientists in the UK", link: "https://www.aisuk.org/", image: "aisuk_logo.png", width: "120px"}
+- 
+  group: "With the partnership of"
+  elements: 
+    - {name: "Centre for Science and Policy", description: "Centre for Science and Policy", link: "http://www.csap.cam.ac.uk/", image: "csap_logo_big.png", width: "120px"}

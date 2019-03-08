@@ -3,6 +3,16 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.aboutTitle }}</h3>
+
+			
+			<div class="animated undefined visible" style="max-width:800px; margin-left: auto; margin-right: auto; margin-top: 50px; font-size: 17px; text-align:left">
+
+            <p>Globalisation has allowed an increasing number of researchers to move across borders, but most policy decisions are still taken by governments at the national and local level. SPP-Italy aims at bridging this gap: how can emigrated scientists contribute to and participate in the public life of their country of origin? How can scientific knowledge be disseminated across borders, while also ensuring its trustworthiness and acceptability by society at large?
+            <p></p> 
+            <p>The  discussion will be focused on 3 key themes:</p>  
+            <p></p> 
+            </div>
+
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
@@ -19,9 +29,31 @@
                 {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
                 {% endfor %}
             </div>
-			
-			<div class="animated undefined visible" style="max-width:800px; margin-left: auto; margin-right: auto; margin-top: 50px; font-size: 17px; text-align:left"> <p><b style="font-size: 17px;">Das Heidelberger Symposium …</b> </p><ul> <li>ist interdisziplinärer Austausch über das eigene Studium hinaus.</li> <li>bietet Euch drei großartige Tage voller spannender Vorträge, renommierter Referenten, kontroversen Diskussionen und Kolloquien zu gesellschaftlich relevanten Themen.</li> <li>versorgt Euch mit Speisen und Getränken.</li> <li>garantiert ein abwechslungsreiches Rahmenprogramm mit coolen Workshops, Abendveranstaltungen und einer Abschlussparty.</li> <li>ist eine 100% studentische, ehrenamtliche und unabhängige Organisation.</li> <li>macht einen festen Bestandteil des akademischen Lebens der Stadt Heidelberg aus, den man sich nicht entgehen lassen sollte.</li> </ul><p></p> </div>
-        </div>
+
+            <div class="animated undefined visible" style="max-width:800px; margin-left: auto; margin-right: auto; margin-top: 50px; font-size: 17px; text-align:left"><p>The symposium will invite Italian researchers working in the UK, and other researchers with an interest in Italian affairs, to meet with science communicators and policymakers from Italy.  </p>
+            <p>The symposium will also be an opportunity for young researchers with an interest in these themes to present their work to a wider audience. We hope this will prompt young, talented scientists to explore the impact their own research can have on society and the contribution it can make to political debates and decisions.</p>
+
+            <p>The one-day symposium with a single session will include:</p>
+            <p></p> 
+            </div>
+
+            <div class="row about-details">
+                {% assign animationDelay = 0 %}
+                {% for about in site.aboutBlock2 %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-6">  
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <h5>{{ about.title }}</h5>
+                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+                        <p>{{ about.text }}</p>
+                    </div>
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% endfor %}
+            </div>
+            </div>
     </div>
 </section>
 <!-- End About Section -->
