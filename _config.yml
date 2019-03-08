@@ -6,13 +6,13 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['vendor', '/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
 title: "Science Policy and the Public in Italy"
 email: "spp2019.cambridge@gmail.com"
-description: ""
+description: "A conference "
 baseurl: "/conference"
 url: "https://spp2019.github.io"
 permalink: "/blog/:title"
@@ -50,7 +50,6 @@ navigationLinks:
  - {permalink: "/team/", text: "Committee"}
  - {permalink: "/callposters/", text: "Call for Posters"}
  - {permalink: "/venue/", text: "Venue"}
- - {permalink: "/blog/", text: "Blog"}
 
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a Sponsor"}
@@ -69,7 +68,7 @@ heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a sponsor"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About"
 
 aboutBlock:
 # intro su conf
@@ -79,13 +78,6 @@ aboutBlock:
  - {title: "Energy and the environment", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Public Health and Biotechnology", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Digital technologies", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
-
- # format della conf
- #{text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
-
- - {title: "Talks and Panel Sessions", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Student Poster", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Networking", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 #statisticBlockImage: "statistic.jpg"
@@ -106,19 +98,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventLocationName: "St John's College"
+eventLocationLink: "https://www.joh.cam.ac.uk/"
+eventStreetAddress: "St Johns St"
+eventAddressLocality: "Cambridge"
+eventAddressLocalityRegion: "Cambridgeshire"
+eventPostalCode: "CB2 1TP"
+eventAddressCountry: "United Kingdom"
+eventStartTime: "2019-10-26T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2019-10-26T20:00"
+eventPlaceCoordinates: "52.207899, 0.118436"
+mapCenterCoordinates: "52.207899, 0.118436"
+mapMobileCenterCoordinates: "52.207899, 0.118436"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -126,13 +118,13 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "Old Divinity School"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "spp2019"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -144,49 +136,22 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around April. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Register"
+ticketsInfo: "Tickets are free and grant access to all conference sections, coffee brakes, and lunch. Accommodation is NOT included in the ticket."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
+  name: "Free"
+  price: "0"
+  priceCurrency: "£"
+  ticketsNumber: "250"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  buyButtonText: "Register Now"
+  ticketContentList: ["SPP 2019 Cambridge Symposium"]
+  validFrom: "2019-04-01T10:00"
+  validThrough: "2019-09-30T23:59"
 
 # Footer
 socialLinks:
@@ -198,12 +163,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.cuitaliansociety.org.uk/", text: "Cambridge University Italian Society"}
+   - {link: "https://www.aisuk.org/", text: "Association of Italian Scientists in the UK"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:spp2019.cambridge@gmail.com", text: "spp2019.cambridge@gmail.com"}
  -
   title: "FAQ"
   links:
