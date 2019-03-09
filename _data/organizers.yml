@@ -1,9 +1,9 @@
 - 
-  group: "Main organizer"
+  group: "Main organiser"
   elements: 
-    - {name: "SPP - Science Policy and the Public", description: "SPP - Science Policy and the Public", link: "https://spp2019.github.io/zeppelin/", image: "nero.png", width: "120"}
+    - {name: "SPP - Science Policy and the Public", description: "SPP - Science Policy and the Public", link: "https://spp2019.github.io/conference/", image: "nero.png", width: "120"}
 - 
-  group: "Co-organized by"
+  group: "Co-organised by"
   elements: 
     - {name: "Cambridge University Italian Society", description: "Cambridge University Italian Society", link: "http://www.cuitaliansociety.org.uk/", image: "cuit_logo.png", width: "120px"}
     - {name: "Association of Italian Scientists in the UK", description: "Association of Italian Scientists in the UK", link: "https://www.aisuk.org/", image: "aisuk_logo.png", width: "120px"}

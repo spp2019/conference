@@ -136,7 +136,7 @@ venueSmallImage2: "ods_lighfoot.jpg"
 #ods_interni.jpg"
 venueSmallImage3: "ods_lighfoot.jpg"
 venueTitle: "Old Divinity School"
-venueFeatures: ["180-seat lecture theatre", "---", "---"]
+venueFeatures: ["180-seat Lecture Theatre", "Central Hall for Refreshments and Posters", "Located in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "ods_passage.jpg"
@@ -145,7 +145,7 @@ twitterHashTag: "spp2019"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organisers"
 partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
@@ -163,7 +163,7 @@ ticketsOffers:
   name: "Free"
   price: "0"
   priceCurrency: "£"
-  ticketsNumber: "250"
+  ticketsNumber: "180"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Register Now"
   ticketContentList: ["SPP 2019 Cambridge Symposium"]
