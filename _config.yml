@@ -12,7 +12,7 @@ exclude: ['vendor', '/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Science Policy and the Public in Italy"
 email: "spp2019.cambridge@gmail.com"
-description: "A conference "
+description: ""
 baseurl: "/conference"
 url: "https://spp2019.github.io"
 permalink: "/blog/:title"
