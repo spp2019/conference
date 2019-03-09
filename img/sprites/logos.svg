@@ -17,9 +17,36 @@
    version="1.1"
    id="svg1217"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="moebius.svg">
+   sodipodi:docname="moebius.svg"
+   inkscape:export-filename="C:\Users\ep490\Desktop\moebius.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs1211">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1753">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop1749" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop1751" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1747"
+       inkscape:collect="always">
+      <stop
+         id="stop1743"
+         offset="0"
+         style="stop-color:#ff0000;stop-opacity:1;" />
+      <stop
+         id="stop1745"
+         offset="1"
+         style="stop-color:#4d4d4d;stop-opacity:1" />
+    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#Strips1_1"
@@ -56,18 +83,6 @@
          style="stop-color:#008000;stop-opacity:0;"
          offset="1"
          id="stop2542" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2536">
-      <stop
-         style="stop-color:#ff0000;stop-opacity:1;"
-         offset="0"
-         id="stop2532" />
-      <stop
-         style="stop-color:#ff0000;stop-opacity:0;"
-         offset="1"
-         id="stop2534" />
     </linearGradient>
     <pattern
        inkscape:stockid="Stripes 1:1"
@@ -137,16 +152,16 @@
     </meshgradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2536"
+       xlink:href="#linearGradient1747"
        id="linearGradient2538"
-       x1="55.52821"
-       y1="79.240067"
-       x2="75.198029"
-       y2="79.240067"
+       x1="55.528208"
+       y1="79.24007"
+       x2="75.198031"
+       y2="79.24007"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2544"
+       xlink:href="#linearGradient1753"
        id="linearGradient2546"
        x1="66.302452"
        y1="76.792389"
@@ -155,12 +170,12 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2552"
+       xlink:href="#linearGradient1747"
        id="linearGradient2554"
-       x1="91.176353"
-       y1="74.297859"
+       x1="91.176352"
+       y1="74.297863"
        x2="110.88738"
-       y2="74.297859"
+       y2="74.297863"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -173,7 +188,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2552"
+       xlink:href="#linearGradient1747"
        id="linearGradient2538-9"
        x1="55.52821"
        y1="79.240067"
@@ -203,7 +218,7 @@
     </pattern>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2544"
+       xlink:href="#linearGradient1753"
        id="linearGradient2546-0"
        x1="66.302452"
        y1="76.792389"
@@ -212,7 +227,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2552"
+       xlink:href="#linearGradient1747"
        id="linearGradient2554-1"
        x1="91.176353"
        y1="74.297859"
@@ -343,8 +358,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="113.47855"
-     inkscape:cy="27.582033"
+     inkscape:cx="11.453142"
+     inkscape:cy="62.993958"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"

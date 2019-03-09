@@ -25,7 +25,7 @@ organizerName: "SPP"
 organizerAlternateName: ""
 organizerDescription: ""
 organizerEmail: "spp2019.cambridge@gmail.com"
-organizerLogo: "/logo/nero.png"
+organizerLogo: ""
 organizerLink: ""
 
 # Head
@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 # link al google doc (ex per call for posters)
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2"
 # go to pdf "how to become sponsor"
 c4sponsorsUrl: "/assets/SPP_Italy_sponsorship.pdf"
 
@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Committee"}
  - {permalink: "/callposters/", text: "Call for Posters"}
- - {permalink: "/venue/", text: "Venue"}
+ - {permalink: "/#venue", text: "Venue"}
 
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a Sponsor"}
@@ -64,7 +64,7 @@ typeoutTextValues: '"", "Science", "Policy", "Public"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Register"}
- - {permalink: "/#callposters", text: "Submit a Poster"}
+ - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Submit a poster"}
  - {permalink: "/assets/SPP_Italy_sponsorship.pdf", text: "Become a sponsor"}
 
 # About Block
@@ -75,8 +75,8 @@ aboutBlock:
 #{text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
 
  # qui spieghiamo i temi
- - {title: "Energy and the environment", image: "conference.jpg", text: "" }
- - {title: "Public Health and Biotechnology", image: "workshop.jpg", text: "" }
+ - {title: "Energy and the environment", image: "energy.jpg", text: "" }
+ - {title: "Public Health and Biotechnology", image: "biotech.jpg", text: "" }
  - {title: "Digital technologies<br><br>", image: "hackathon.jpg", text: "" }
 
 aboutBlock2:
@@ -84,10 +84,10 @@ aboutBlock2:
 #{text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
 
  # qui spieghiamo i temi
- - {title: "Talks", image: "conference.jpg", text: "Invited speakers and discussions for each of the 3 themes" }
- - {title: "Panel Discussion", image: "workshop.jpg", text: "about the relationship between science and policy in Italy" }
- - {title: "Poster Session", image: "workshop.jpg", text: "with work presented by young researchers" }
- - {title: "Networking", image: "hackathon.jpg", text: "---" }
+ - {title: "Talks", image: "conference.jpg", text: "Invited speakers lecturing on key aspects of the main themes" }
+ - {title: "Panels", image: "panel.jpg", text: "Discussions on the relationship among scientific research, policymaking, and public opinion" }
+ - {title: "Posters", image: "poster.jpg", text: "Highligting the work of young researchers" }
+ - {title: "Networking", image: "workshop.jpg", text: "Meeting with companies and institutes involved in scientific research" }
 
 
 # Statistic Block
@@ -125,18 +125,14 @@ mapMobileCenterCoordinates: "52.207899, 0.118436"
 
 # Venue Block
 venueBlockTitle: "Venue"
-# non so se possiamo usare questa:
-#https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5a7363d84c326d7ca63c9d5c%2F5ad224d603ce641bc87d0724%2F5ad226b98a922d44a44626b7%2F1523723182789%2Fas.jpg%3Fformat%3D1000w&imgrefurl=https%3A%2F%2Fwww.charliedraper.co.uk%2Fevents%2F2018%2F5%2F17%2Frecital-at-st-johns-college-cambridge&docid=snCsVEA-dKMruM&tbnid=L7mfyDLrTenOcM%3A&vet=1&w=905&h=562&bih=691&biw=1160&ved=2ahUKEwiGyqqCi_PgAhVGUhoKHcHACuEQxiAoAXoECAEQFQ&iact=c&ictx=1
-#venueBigImage: "ods_interno_2.jpg"
-# se no, cambia a:
-#ods_passage.jpg
+
 venueBigImage: "ods_interno_1.jpg"
 venueSmallImage1: "ods.jpg"
 venueSmallImage2: "ods_lighfoot.jpg"
 #ods_interni.jpg"
 venueSmallImage3: "ods_lighfoot.jpg"
 venueTitle: "Old Divinity School"
-venueFeatures: ["180-seat Lecture Theatre", "Central Hall for Refreshments and Posters", "Located in the city center"]
+venueFeatures: ["180-seat Lecture Theatre", "Central Hall for refreshments & posters", "Auxiliary rooms for company stands"]
 
 # Tweets Feed Block
 tweetsFeedImage: "ods_passage.jpg"
@@ -186,10 +182,6 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:spp2019.cambridge@gmail.com", text: "spp2019.cambridge@gmail.com"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
