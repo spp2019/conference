@@ -15,7 +15,7 @@
   surname: "Garone"
   title: ""
   #
-  thumbnailUrl: IacopoRusso.jpg
+  thumbnailUrl: CaterinaGarone.jpg
   team: true
   ribbon: 
     - {abbr: "Health", title: "Public Health and Biotechnology"}
@@ -39,7 +39,7 @@
   surname: "Conforti"
   title: "PhD Candidate in Natural Language Processing"
   #Digital technologies
-  thumbnailUrl: IacopoRusso.jpg
+  thumbnailUrl: costanza.jpg
   team: true
   ribbon: 
     - {abbr: "Technology", title: "Digital technologies"}
@@ -51,7 +51,7 @@
   surname: "Ponti"
   title: "PhD Candidate in Natural Language Processing"
   #Digital technologies
-  thumbnailUrl: IacopoRusso.jpg
+  thumbnailUrl: edoardo.jpg
   ribbon: 
     - {abbr: "Technology", title: "Digital technologies"}
   team: true
@@ -61,20 +61,22 @@
   id: 5
   name: "Elisa"
   surname: "Roccia"
-  title: "-----"
+  title: "PhD candidate in cancer MRI at King's College London"
   thumbnailUrl: ElisaRoccia.jpg
   subTeam: true
   social: 
     - {name: "site", link: "http://www.imagingcdt.com/students/student-profiles/elisa-roccia"}
+    - {name: "twitter", link: "https://twitter.com/eliroccia"}
 - 
   id: 6
   name: "Alessandro"
   surname: "Allegra"
-  title: "----"
-  thumbnailUrl: IacopoRusso.jpg
+  title: "PhD candidate in Science, Technology and Society (STS) at University College London"
+  thumbnailUrl: alessandro.jpg
   subTeam: true
   social: 
-    - {name: "site", link: "---"}
+    - {name: "site", link: "https://www.linkedin.com/in/alessandro-allegra/"}
+    - {name: "twitter", link: "https://twitter.com/a_allegra"}
 
 
 
