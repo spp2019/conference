@@ -5,8 +5,8 @@
   title: "Chair"
   #PhD Candidate in Engineering"
   thumbnailUrl: IacopoRusso.jpg
-  ribbon: 
-    - {abbr: "Energy", title: "Energy and the environment"}
+#  ribbon: 
+#   - {abbr: "Energy", title: "Energy and the environment"}
   team: true
   social: 
     - {name: "site", link: "https://www.uselessgroup.org/about-us/current-people/iacopo-m-russo"}
@@ -14,12 +14,12 @@
   id: 1
   name: "Caterina"
   surname: "Garone"
-  title: "Public Health and Biotechnology Panel Lead, Finance & Sponsor Chair"
+  title: "Finance & Sponsor Chair"
   #
   thumbnailUrl: CaterinaGarone.jpg
   team: true
   ribbon: 
-    - {abbr: "Health", title: "Public Health and Biotechnology"}
+    - {abbr: "Health", title: "Public Health and Biotechnology Panel Lead"}
   social: 
     - {name: "site", link: "http://www.mrc-mbu.cam.ac.uk/people/caterina-garone"}
     - {name: "twitter", link: "https://twitter.com/caterina_garone"}
@@ -27,12 +27,12 @@
   id: 2
   name: "Gianni"
   surname: "Jacucci"
-  title: "Energy & Environment Panel Lead, Finance & Sponsor Chair"
+  title: "Finance & Sponsor Chair"
   #Energy and the environment
   thumbnailUrl: GianniJacucci.jpeg
   team: true
   ribbon: 
-    - {abbr: "Energy", title: "Energy and the environment"}
+    - {abbr: "Energy", title: "Energy & environment Panel Lead"}
   social: 
     - {name: "site", link: "http://www.ch.cam.ac.uk/group/vignolini/"}
     - {name: "twitter", link: "https://twitter.com/GianniJacca"}
@@ -40,13 +40,13 @@
   id: 3
   name: "Costanza"
   surname: "Conforti"
-  title: "Digital Technologies Panel Lead, Speakers & Publicity Chair"
+  title: "Speakers & Publicity Chair"
   #PhD Candidate in Natural Language Processing"
   #Digital technologies
   thumbnailUrl: costanza.jpg
   team: true
   ribbon: 
-    - {abbr: "Technology", title: "Digital technologies"}
+    - {abbr: "Technology", title: "Digital technologies Panel Lead"}
   social: 
     - {name: "site", link: "http://people.ds.cam.ac.uk/cc918/"}
 - 
@@ -57,8 +57,8 @@
   #PhD Candidate in Natural Language Processing"
   #Digital technologies
   thumbnailUrl: edoardo.jpg
-  ribbon: 
-    - {abbr: "Technology", title: "Digital technologies"}
+#  ribbon: 
+#    - {abbr: "Technology", title: "Digital technologies"}
   team: true
   social: 
     - {name: "site", link: "http://people.ds.cam.ac.uk/ep490/"}
@@ -66,7 +66,7 @@
   id: 5
   name: "Elisa"
   surname: "Roccia"
-  title: "Partnerships and External Relations Chair"
+  title: "Partnerships & External Relations Chair"
   #PhD candidate in cancer MRI at King's College London"
   thumbnailUrl: ElisaRoccia.jpg
   subTeam: true
