@@ -2,7 +2,8 @@
   id: 0
   name: "Iacopo"
   surname: "Russo"
-  title: "PhD Candidate in Engineering"
+  title: "Chair"
+  #PhD Candidate in Engineering"
   thumbnailUrl: IacopoRusso.jpg
   ribbon: 
     - {abbr: "Energy", title: "Energy and the environment"}
@@ -13,7 +14,7 @@
   id: 1
   name: "Caterina"
   surname: "Garone"
-  title: ""
+  title: "Public Health and Biotechnology Panel Lead, Finance & Sponsor Chair"
   #
   thumbnailUrl: CaterinaGarone.jpg
   team: true
@@ -21,23 +22,26 @@
     - {abbr: "Health", title: "Public Health and Biotechnology"}
   social: 
     - {name: "site", link: "http://www.mrc-mbu.cam.ac.uk/people/caterina-garone"}
+    - {name: "twitter", link: "https://twitter.com/caterina_garone"}
 - 
   id: 2
   name: "Gianni"
   surname: "Jacucci"
-  title: ""
+  title: "Energy & Environment Panel Lead, Finance & Sponsor Chair"
   #Energy and the environment
-  thumbnailUrl: IacopoRusso.jpg
+  thumbnailUrl: GianniJacucci.jpeg
   team: true
   ribbon: 
     - {abbr: "Energy", title: "Energy and the environment"}
   social: 
-    - {name: "site", link: "https://www.ch.cam.ac.uk/group/vignolini/person/gi232"}
+    - {name: "site", link: "http://www.ch.cam.ac.uk/group/vignolini/"}
+    - {name: "twitter", link: "https://twitter.com/GianniJacca"}
 - 
   id: 3
   name: "Costanza"
   surname: "Conforti"
-  title: "PhD Candidate in Natural Language Processing"
+  title: "Digital Technologies Panel Lead, Speakers & Publicity Chair"
+  #PhD Candidate in Natural Language Processing"
   #Digital technologies
   thumbnailUrl: costanza.jpg
   team: true
@@ -49,7 +53,8 @@
   id: 4
   name: "Edoardo"
   surname: "Ponti"
-  title: "PhD Candidate in Natural Language Processing"
+  title: "Venue & Publicity Chair"
+  #PhD Candidate in Natural Language Processing"
   #Digital technologies
   thumbnailUrl: edoardo.jpg
   ribbon: 
@@ -61,7 +66,8 @@
   id: 5
   name: "Elisa"
   surname: "Roccia"
-  title: "PhD candidate in cancer MRI at King's College London"
+  title: "Partnerships and External Relations Chair"
+  #PhD candidate in cancer MRI at King's College London"
   thumbnailUrl: ElisaRoccia.jpg
   subTeam: true
   social: 
@@ -71,7 +77,8 @@
   id: 6
   name: "Alessandro"
   surname: "Allegra"
-  title: "PhD candidate in Science, Technology and Society (STS) at University College London"
+  title: "Programme Chair"
+  #PhD candidate in Science, Technology and Society (STS) at University College London"
   thumbnailUrl: alessandro.jpg
   subTeam: true
   social: 
