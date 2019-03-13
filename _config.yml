@@ -60,7 +60,7 @@ rightNavigationButtons:
 heroImage: "/kings.jpg"
 heroTitle: "SPP <typeout> 2019"
 eventDate: "Saturday 26th October 2019"
-typeoutTextValues: '"", "Science", "Policy", "Public"'
+typeoutTextValues: '"", "Science ", "Policy ", "Public "'
 typeoutFallback: ""
 heroButtons:
  - {permalink: "/#tickets", text: "Register"} # TODO
