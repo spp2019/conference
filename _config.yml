@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Committee"}
- - {permalink: "/callposters/", text: "Call for Posters"}
+ - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Call for Posters"}
  - {permalink: "/#venue", text: "Venue"}
 
 bottomNavigationLinks:
@@ -63,7 +63,7 @@ eventDate: "Saturday 26th October 2019"
 typeoutTextValues: '"", "Science", "Policy", "Public"'
 typeoutFallback: ""
 heroButtons:
- - {link: "", text: "Register"} # TODO
+ - {permalink: "/#tickets", text: "Register"} # TODO
  - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Submit a poster"}
  - {permalink: "/assets/SPP_Italy_sponsorship.pdf", text: "Become a sponsor"}
 
@@ -147,7 +147,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: ""
+subscribeAction: "http://eepurl.com/gkpERj"
 subscribeInfo: "Registration will be open soon. Tickets are limited in number. Stay tuned!"
 
 # TODO Add Eventbrite link
