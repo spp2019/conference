@@ -37,7 +37,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 # link al google doc (per call for posters)
-c4pUrl: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2"
+c4pUrl: "" 
+#"https://goo.gl/forms/Gt6H2bYdD0xSncHF2"
 # go to pdf "how to become sponsor"
 c4sponsorsUrl: "/assets/SPP_Italy_sponsorship.pdf"
 
@@ -48,7 +49,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Committee"}
- - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Call for Posters"}
+# - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Call for Posters"}
  - {permalink: "/#venue", text: "Venue"}
 
 bottomNavigationLinks:
@@ -64,7 +65,7 @@ typeoutTextValues: '"", "Science ", "Policy ", "Public "'
 typeoutFallback: ""
 heroButtons:
  - {permalink: "/#tickets", text: "Register"} # TODO
- - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Submit a poster"}
+# - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Submit a poster"}
  - {permalink: "/assets/SPP_Italy_sponsorship.pdf", text: "Become a sponsor"}
 
 # About Block
@@ -99,7 +100,7 @@ aboutBlock2:
 #latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "clare.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
@@ -156,12 +157,12 @@ ticketsTitle: "Register"
 ticketsInfo: "Tickets are free and grant access to all conference sections, coffee brakes, and lunch. Accommodation is NOT included in the ticket."
 ticketsOffers:
  -
-  name: "Free"
-  price: "0"
-  priceCurrency: "£"
+  name: ""
+  price: ""
+  priceCurrency: ""
   ticketsNumber: "180"
   buyButtonLink: "" # TODO
-  buyButtonText: "Register Now"
+  buyButtonText: "Coming soon"
   ticketContentList: ["SPP 2019 Cambridge Symposium"]
   validFrom: "2019-04-01T10:00"
   validThrough: "2019-10-25T23:59"

@@ -4,7 +4,7 @@
   surname: "Bucchi"
   company: "University of Trento"
   title: "Full Professor of Sociology of Science and Communication, Science and Technology"
-  bio: "Massimiano Bucchi is a Full Professor of Sociology of Science and Communication, Science and Technology at the University of Trento"
+  bio: "" #"Massimiano Bucchi is a Full Professor of Sociology of Science and Communication, Science and Technology at the University of Trento"
   thumbnailUrl: MassimianoBucchi.jpg
   rockstar: true
   social: 
@@ -16,7 +16,7 @@
   surname: "Cappato"
   company: "Associazione Luca Coscioni"
   title: "President"
-  bio: "Marco Cappato is a human right activist, previous Member of the European Parliament, and current leader of Associazione Luca Coscioni"
+  bio: "" #"Marco Cappato is a human right activist, previous Member of the European Parliament, and current leader of Associazione Luca Coscioni"
   thumbnailUrl: MarcoCappato.jpg
   rockstar: true
   social: 
@@ -29,7 +29,7 @@
   surname: "Luna"
   company: "Agenzia Giornalistica Italia (AGI)"
   title: "Editor-in-chief"
-  bio: "Riccardo Luna, Editor-in-chief at Agenzia Giornalistica Italia Spa (AGI), has been a Digital Champion of the Italian government, and the previous editor-in-chief of Wired Italia."
+  bio: "" #"Riccardo Luna, Editor-in-chief at Agenzia Giornalistica Italia Spa (AGI), has been a Digital Champion of the Italian government, and the previous editor-in-chief of Wired Italia."
   thumbnailUrl: RiccardoLuna.jpg
   rockstar: true
   social: 
