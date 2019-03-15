@@ -76,7 +76,7 @@ aboutBlock:
 #{text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
 
  # qui spieghiamo i temi
- - {title: "Energy and the environment<br><br>", image: "energy.jpg", text: "" }
+ - {title: "Energy and the environment", image: "energy.jpg", text: "" }
  - {title: "Public Health and Biotechnology", image: "biotech.jpg", text: "" }
  - {title: "Digital technologies<br><br>", image: "hackathon.jpg", text: "" }
 
