@@ -281,4 +281,4 @@ hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
