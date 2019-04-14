@@ -76,15 +76,15 @@ aboutBlock:
 #{text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
 
  # qui spieghiamo i temi
- - {title: "Energy and the environment", image: "energy.jpg", text: "" }
- - {title: "Public Health and Biotechnology", image: "biotech.jpg", text: "" }
- - {title: "Digital technologies<br><br>", image: "hackathon.jpg", text: "" }
+ - {title: "Energy and the environment", image: "energy.jpg", text: "renewable energy, green transport technologies, smart cities, sustainable manufacturing" }
+ - {title: "Public Health and Biotechnology", image: "biotech.jpg", text: "gene editing, stem cells and regenerative medicine" }
+ - {title: "Digital technologies<br><br>", image: "hackathon.jpg", text: "deep learning and artificial intelligence, pervasive computing, social and digital media" }
 
 aboutBlock2:
  # qui spieghiamo i temi
- - {title: "Talks", image: "conference.jpg", text: "Invited speakers lecturing on key aspects of the main themes" }
- - {title: "Panels", image: "panel.jpg", text: "Discussions on the relationship among scientific research, policymaking, and public opinion" }
- - {title: "Posters", image: "poster.jpg", text: "Highligting the work of young researchers" }
+ - {title: "Talks", image: "conference.jpg", text: "Invited speakers will provide their perspective on key policy issues" }
+ - {title: "Panels", image: "panel.jpg", text: "Speakers will engage in debates on scientific research, policymaking, and the public opinion" }
+ - {title: "Posters", image: "poster.jpg", text: "Young researchers will present research evidence to policymakers" }
  - {title: "Networking", image: "workshop.jpg", text: "Meeting with companies and institutes involved in scientific research" }
 
 
