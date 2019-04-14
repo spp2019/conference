@@ -54,7 +54,7 @@ navigationLinks:
  - {permalink: "/#venue", text: "Venue"}
 
 bottomNavigationLinks:
- - {permalink: "/assets/SPP_Italy_sponsorship.pdf", text: "Become a Sponsor"}
+ - {permalink: "/assets/SPP_Italy_sponsorship_new.pdf", text: "Become a Sponsor"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Register"}
 
