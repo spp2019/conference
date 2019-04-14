@@ -76,7 +76,7 @@ aboutBlock:
 #{text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
 
  # qui spieghiamo i temi
- - {title: "Energy and the environment", image: "energy.jpg", text: "renewable energy, green transport technologies, smart cities, sustainable manufacturing" }
+ - {title: "Energy and the environment<br><br>", image: "energy.jpg", text: "renewable energy, green transport technologies, smart cities, sustainable manufacturing" }
  - {title: "Public Health and Biotechnology", image: "biotech.jpg", text: "gene editing, stem cells and regenerative medicine" }
  - {title: "Digital technologies<br><br>", image: "hackathon.jpg", text: "deep learning and artificial intelligence, pervasive computing, social and digital media" }
 
@@ -193,7 +193,8 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "Organizing Committee"
+#About us"
 aboutUs: "We are a group of Italian PhD students and researchers located in Cambridge and London. We hope that the interaction of researchers, science communicators and policymakers, fundamental to a modern functioning democracy, will help formulating innovative ideas to develop an adequate role for scientific expertise and evidence in democratic deliberation."
 
 # Logistics Find Way Block

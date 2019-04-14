@@ -1,6 +1,7 @@
 - 
   date: "2019-10-26"
   dateReadable: "October 26"
+  
   tracks: 
     - {title: "Main track", color: "#90be4e"}    
   timeslots:
