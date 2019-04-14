@@ -46,6 +46,7 @@ c4sponsorsUrl: "/assets/SPP_Italy_sponsorship.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/#about", text: "About"}
  - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Committee"}

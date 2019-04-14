@@ -1,7 +1,7 @@
-- 
-  group: "Main organiser"
-  elements: 
-    - {name: "SPP - Science Policy and the Public", description: "SPP - Science Policy and the Public", link: "https://spp2019.github.io/conference/", image: "nero.png", width: "120"}
+#- 
+#  group: "Main organiser"
+#  elements: 
+#    - {name: "SPP - Science Policy and the Public", description: "SPP - Science Policy and the Public", link: "https://spp2019.github.io/conference/", image: "nero.png", width: "120"}
 - 
   group: "Co-organised by"
   elements: 
