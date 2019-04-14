@@ -66,7 +66,8 @@ eventDate: "Saturday 26th October 2019"
 typeoutTextValues: '"", "Science ", "Policy ", "Public "'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/#tickets", text: "Register"} # TODO
+ #- {permalink: "/#tickets", text: "Register"} # TODO
+ - {permalink: "/#subscribe", text: "Subscribe for Updates"} # TODO
 # - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Submit a poster"}
  - {permalink: "/assets/SPP_Italy_sponsorship.pdf", text: "Become a sponsor"}
 
