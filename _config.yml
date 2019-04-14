@@ -56,7 +56,8 @@ navigationLinks:
 bottomNavigationLinks:
  - {permalink: "/assets/SPP_Italy_sponsorship_new.pdf", text: "Become a Sponsor"}
 rightNavigationButtons:
- - {permalink: "/#tickets", text: "Register"}
+ #- {permalink: "/#tickets", text: "Register"}
+ - {permalink: "/#subscribe", text: "Subscribe for Updates"}
 
 # Hero Block
 heroImage: "/kings.jpg"
@@ -196,7 +197,7 @@ showSessions: true
 # Team Block
 teamBlockTitle: ""
 #About us"
-aboutUs: "SPP Italy 2019 is organised by a group of PhD students and researchers who wish to improve the interaction between academics, policymakers and science communicators. If you would like to talk to us about anything (collaborations, sponsorship, ideas), do not hesitate to get in touch!"
+aboutUs: "SPP Italy 2019 is organised by a group of PhD students and researchers who wish to improve the interaction between academics, policymakers and science communicators. If you would like to talk to us about anything (collaborations, sponsorship, ideas), do not hesitate to get in touch! We can be reached at <a href="mailto:spp2019.cambridge@gmail.com">spp2019.cambridge@gmail.com</a>"
 #We are a group of Italian PhD students and researchers located in Cambridge and London. We hope that the interaction of researchers, science communicators and policymakers, fundamental to a modern functioning democracy, will help formulating innovative ideas to develop an adequate role for scientific expertise and evidence in democratic deliberation."
 
 # Logistics Find Way Block
