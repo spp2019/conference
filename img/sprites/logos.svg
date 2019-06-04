@@ -11,13 +11,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="68.320168mm"
-   height="50.23399mm"
-   viewBox="0 0 68.320166 50.23399"
+   width="69.178871mm"
+   height="50.233925mm"
+   viewBox="0 0 69.17887 50.233925"
    version="1.1"
    id="svg1217"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="moebius.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="logos-iacopo.svg"
    inkscape:export-filename="C:\Users\ep490\Desktop\moebius.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -63,7 +63,7 @@
        inkscape:collect="always"
        xlink:href="#Strips1_1"
        id="pattern2380"
-       patternTransform="scale(10)" />
+       patternTransform="matrix(5.6754478,0,0,5.6754478,2.307369,37.145294)" />
     <linearGradient
        id="linearGradient2339"
        osb:paint="solid">
@@ -112,21 +112,13 @@
          offset="1"
          id="stop857" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient859"
-       id="linearGradient861"
-       x1="34.283802"
-       y1="85.287682"
-       x2="53.920158"
-       y2="85.287682"
-       gradientUnits="userSpaceOnUse" />
     <meshgradient
        inkscape:collect="always"
        id="meshgradient2434"
        gradientUnits="userSpaceOnUse"
        x="91.176353"
-       y="63.817131">
+       y="63.817131"
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.307369,37.145294)">
       <meshrow
          id="meshrow2436">
         <meshpatch
@@ -158,7 +150,8 @@
        y1="79.240067"
        x2="75.198029"
        y2="79.240067"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.307369,37.145294)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1753"
@@ -167,7 +160,8 @@
        y1="76.792389"
        x2="99.751472"
        y2="76.792389"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.307369,37.145294)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1747"
@@ -176,34 +170,8 @@
        y1="74.297859"
        x2="110.88738"
        y2="74.297859"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2552"
-       id="linearGradient861-5"
-       x1="34.283802"
-       y1="85.287682"
-       x2="53.920158"
-       y2="85.287682"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2552"
-       id="linearGradient861-5-3"
-       x1="34.283802"
-       y1="85.287682"
-       x2="53.920158"
-       y2="85.287682"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2552"
-       id="linearGradient861-5-9"
-       x1="34.283802"
-       y1="85.287682"
-       x2="53.920158"
-       y2="85.287682"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.307369,37.145294)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1747"
@@ -212,12 +180,13 @@
        y1="79.240067"
        x2="75.198029"
        y2="79.240067"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.3064,53.956023)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#Strips1_1-4"
        id="pattern2380-9"
-       patternTransform="scale(10)" />
+       patternTransform="matrix(5.6754478,0,0,5.6754478,2.3064,53.956023)" />
     <pattern
        inkscape:stockid="Stripes 1:1"
        id="Strips1_1-4"
@@ -242,7 +211,8 @@
        y1="76.792389"
        x2="99.751472"
        y2="76.792389"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.3064,53.956023)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1747"
@@ -251,31 +221,15 @@
        y1="74.297859"
        x2="110.88738"
        y2="74.297859"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2552"
-       id="linearGradient1025"
        gradientUnits="userSpaceOnUse"
-       x1="34.283802"
-       y1="85.287682"
-       x2="53.920158"
-       y2="85.287682" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2552"
-       id="linearGradient1027"
-       gradientUnits="userSpaceOnUse"
-       x1="34.283802"
-       y1="85.287682"
-       x2="53.920158"
-       y2="85.287682" />
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.3064,53.956023)" />
     <meshgradient
        inkscape:collect="always"
        id="meshgradient1029"
        gradientUnits="userSpaceOnUse"
        x="91.176353"
-       y="63.817131">
+       y="63.817131"
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.3064,53.956023)">
       <meshrow
          id="meshrow1041">
         <meshpatch
@@ -301,27 +255,19 @@
     </meshgradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2552"
-       id="linearGradient1025-1"
-       gradientUnits="userSpaceOnUse"
-       x1="34.283802"
-       y1="85.287682"
-       x2="53.920158"
-       y2="85.287682" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient859"
        id="linearGradient2538-8-9"
        x1="55.52821"
        y1="79.240067"
        x2="75.198029"
        y2="79.240067"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.399925,70.766754)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#Strips1_1-4-7"
        id="pattern2380-9-1"
-       patternTransform="scale(10)" />
+       patternTransform="matrix(5.6754478,0,0,5.6754478,2.399925,70.766754)" />
     <pattern
        inkscape:stockid="Stripes 1:1"
        id="Strips1_1-4-7"
@@ -346,31 +292,15 @@
        y1="74.297859"
        x2="110.88738"
        y2="74.297859"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2552"
-       id="linearGradient1200"
        gradientUnits="userSpaceOnUse"
-       x1="34.283802"
-       y1="85.287682"
-       x2="53.920158"
-       y2="85.287682" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2552"
-       id="linearGradient1202"
-       gradientUnits="userSpaceOnUse"
-       x1="34.283802"
-       y1="85.287682"
-       x2="53.920158"
-       y2="85.287682" />
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.399925,70.766754)" />
     <meshgradient
        inkscape:collect="always"
        id="meshgradient1204"
        gradientUnits="userSpaceOnUse"
        x="91.176353"
-       y="63.817131">
+       y="63.817131"
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.399925,70.766754)">
       <meshrow
          id="meshrow1216">
         <meshpatch
@@ -402,7 +332,8 @@
        y1="76.792389"
        x2="99.751472"
        y2="76.792389"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.399925,70.766754)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1964"
@@ -411,7 +342,8 @@
        y1="76.792389"
        x2="99.751472"
        y2="76.792389"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.56754478,0,0,0.56754478,2.399925,70.766754)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -421,22 +353,26 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="105.14577"
-     inkscape:cy="69.697329"
+     inkscape:cx="105.14576"
+     inkscape:cy="98.268534"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="true">
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid6358"
-       originx="37.66945"
-       originy="26.902985" />
+       originx="37.669449"
+       originy="26.902926" />
   </sodipodi:namedview>
   <metadata
      id="metadata1214">
@@ -446,7 +382,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -454,300 +390,219 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-33.821144,-72.422149)">
-    <g
-       id="g2043">
-      <g
-         transform="translate(-37.608631,9.921875)"
-         id="g984">
-        <g
-           id="g1796-2"
-           transform="matrix(0.56754479,0,0,0.56754479,57.941576,46.4945)"
-           style="fill:url(#linearGradient861-5);fill-opacity:1" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot2556-9"
-           style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.15016289,0,0,0.15016289,71.499912,79.224359)"><flowRegion
-             id="flowRegion2558-2"
-             style="font-size:26.66666794px"><rect
-               id="rect2560-2"
-               width="100.71429"
-               height="110.71429"
-               x="210.35715"
-               y="0.26981863"
-               style="font-size:26.66666794px" /></flowRegion><flowPara
-             id="flowPara2562-3">Science</flowPara></flowRoot>        <g
-           id="g1796-2-2"
-           transform="matrix(0.56754479,0,0,0.56754479,58.001234,63.19136)"
-           style="fill:url(#linearGradient861-5-3);fill-opacity:1" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot2556-9-4"
-           style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.15016289,0,0,0.15016289,71.55957,95.921219)"><flowRegion
-             id="flowRegion2558-2-5"
-             style="font-size:26.66666794px"><rect
-               id="rect2560-2-1"
-               width="100.71429"
-               height="110.71429"
-               x="210.35715"
-               y="0.26981863"
-               style="font-size:26.66666794px" /></flowRegion><flowPara
-             id="flowPara2562-3-7">Science</flowPara></flowRoot>        <g
-           id="g1796"
-           transform="matrix(0.56754478,0,0,0.56754478,57.881917,29.79764)"
-           style="fill:url(#linearGradient861);fill-opacity:1" />
-        <g
-           id="g2396"
-           transform="matrix(0.56754478,0,0,0.56754478,39.916,27.223419)">
-          <path
-             style="fill:url(#linearGradient2538);fill-opacity:1;stroke:url(#pattern2380);stroke-width:0.03340869;stroke-opacity:0"
-             d="M 64.153471,89.642856 C 62.713185,89.438206 61.36912,88.955122 60.202504,88.222797 57.859475,86.752 56.217024,84.300222 55.704267,81.50803 c -0.153099,-0.833684 -0.202486,-2.026854 -0.119028,-2.875733 0.285438,-2.903392 1.81165,-5.740077 4.060581,-7.547186 1.329878,-1.068613 2.878619,-1.795661 4.509942,-2.117175 0.832522,-0.164081 0.924216,-0.171995 1.968823,-0.169963 1.076312,0.0021 1.391491,0.0351 2.211173,0.23155 1.391322,0.333452 2.764494,1.008496 3.885795,1.910239 1.030193,0.828471 1.926283,1.929611 2.512714,3.08769 0.18883,0.372904 0.468185,1.036428 0.445783,1.058831 -0.0058,0.0058 -0.211582,-0.05123 -0.457189,-0.126844 -0.573495,-0.176551 -1.245857,-0.341842 -1.788219,-0.439608 -0.388768,-0.07008 -0.527687,-0.07735 -1.481372,-0.07754 -1.156595,-2.33e-4 -1.370648,0.02479 -2.168377,0.25351 -1.878587,0.538594 -3.477091,1.864776 -4.749025,3.939977 -0.58601,0.956087 -0.914172,1.775864 -1.096293,2.738612 -0.344681,1.822101 0.03461,3.999629 0.980646,5.629992 0.482322,0.831217 1.242357,1.701035 2.048777,2.344724 0.270794,0.216146 0.32742,0.275609 0.28129,0.295381 -0.03177,0.01363 -0.553874,0.0295 -1.160243,0.0353 -0.822209,0.0079 -1.187419,-0.0016 -1.436574,-0.03693 z"
-             id="path1781"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:url(#linearGradient2546);fill-opacity:1;stroke:#000000;stroke-width:0.09449405;stroke-opacity:0"
-             d="m 73.912441,91.305837 c -1.27567,-0.12323 -3.331617,-0.53075 -5.49929,-1.09004 -1.117097,-0.28823 -2.045854,-0.53882 -2.063906,-0.55687 -0.01805,-0.0181 0.173061,-0.0587 0.42469,-0.0902 1.683629,-0.2113 2.577476,-0.60518 3.524123,-1.552922 1.492412,-1.494137 2.75557,-3.737679 8.065871,-14.326082 1.746345,-3.482104 3.397261,-6.668553 3.668694,-7.080996 1.513964,-2.300444 3.677235,-3.751678 6.347476,-4.258215 1.027432,-0.1949 3.420076,-0.193966 4.748896,0.0019 1.61264,0.237646 3.95269,0.793266 5.89969,1.400816 l 0.70871,0.221146 -0.94494,0.04964 c -1.52046,0.07988 -2.59549,0.559851 -3.70039,1.65213 -1.85724,1.836044 -3.35169,4.597808 -8.62601,15.940953 -1.499539,3.224969 -2.556052,5.37528 -2.880955,5.863574 -0.949931,1.42766 -2.371593,2.583346 -3.94154,3.204106 -1.522577,0.60204 -3.599074,0.82709 -5.731119,0.62114 z"
-             id="path1791"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:url(#linearGradient2554);fill-opacity:1;stroke:url(#meshgradient2434);stroke-width:0.09449405;stroke-opacity:0"
-             d="m 98.711135,84.655195 c -2.41317,-0.43147 -4.70386,-1.83422 -6.16771,-3.77689 -0.51833,-0.687872 -1.40616,-2.322222 -1.31242,-2.415953 0.0252,-0.02516 0.25374,0.04356 0.50796,0.152707 1.35931,0.583623 3.36959,0.761947 4.7617,0.422391 2.18075,-0.531916 3.945895,-1.779587 5.169565,-3.654041 1.46416,-2.242884 1.80571,-4.859869 0.96443,-7.38953 -0.41933,-1.260901 -0.92485,-2.054055 -1.978,-3.103493 l -0.919265,-0.916012 0.523605,-0.06542 c 1.26828,-0.158459 3.08726,0.117004 4.46066,0.675521 2.94224,1.19651 5.22778,3.998762 5.91119,7.247573 0.4524,2.150621 0.15704,4.558109 -0.81816,6.668926 -1.36876,2.962677 -3.97422,5.158421 -7.09332,5.977891 -0.88334,0.23207 -3.142815,0.33142 -4.010235,0.17633 z"
-             id="path1789"
-             inkscape:connector-curvature="0" />
-        </g>
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot2556"
-           style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.15016289,0,0,0.15016289,71.440253,62.527498)"><flowRegion
-             id="flowRegion2558"
-             style="font-size:26.66666794px"><rect
-               id="rect2560"
-               width="100.71429"
-               height="110.71429"
-               x="210.35715"
-               y="0.26981863"
-               style="font-size:26.66666794px" /></flowRegion><flowPara
-             id="flowPara2562">Science</flowPara></flowRoot>        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:6.33116484px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.15827912;paint-order:stroke fill markers"
-           x="101.66685"
-           y="70.703217"
-           id="text2566"
-           transform="scale(1.024994,0.97561547)"><tspan
-             sodipodi:role="line"
-             x="101.66685"
-             y="70.703217"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
-             id="tspan2568">SPP Italy 2019</tspan><tspan
-             sodipodi:role="line"
-             x="101.66685"
-             y="77.034378"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861121px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
-             id="tspan2574">Science | Policy |Public</tspan></text>
-        <g
-           id="g2396-5"
-           transform="matrix(0.56754479,0,0,0.56754479,39.975658,43.920279)" />
-        <g
-           id="g2396-5-4"
-           transform="matrix(0.56754479,0,0,0.56754479,40.035316,60.617139)" />
-      </g>
-      <g
-         transform="translate(-37.6096,26.732604)"
-         id="g984-2">
-        <g
-           id="g1796-2-0"
-           transform="matrix(0.56754479,0,0,0.56754479,57.941576,46.4945)"
-           style="fill:url(#linearGradient1025);fill-opacity:1" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot2556-9-2"
-           style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.15016289,0,0,0.15016289,71.499912,79.224359)"><flowRegion
-             id="flowRegion2558-2-55"
-             style="font-size:26.66666794px"><rect
-               id="rect2560-2-7"
-               width="100.71429"
-               height="110.71429"
-               x="210.35715"
-               y="0.26981863"
-               style="font-size:26.66666794px" /></flowRegion><flowPara
-             id="flowPara2562-3-5">Science</flowPara></flowRoot>        <g
-           id="g1796-2-2-5"
-           transform="matrix(0.56754479,0,0,0.56754479,58.001234,63.19136)"
-           style="fill:url(#linearGradient1027);fill-opacity:1" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot2556-9-4-1"
-           style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.15016289,0,0,0.15016289,71.55957,95.921219)"><flowRegion
-             id="flowRegion2558-2-5-6"
-             style="font-size:26.66666794px"><rect
-               id="rect2560-2-1-9"
-               width="100.71429"
-               height="110.71429"
-               x="210.35715"
-               y="0.26981863"
-               style="font-size:26.66666794px" /></flowRegion><flowPara
-             id="flowPara2562-3-7-8">Science</flowPara></flowRoot>        <g
-           id="g1796-0"
-           transform="matrix(0.56754478,0,0,0.56754478,57.881917,29.79764)"
-           style="fill:url(#linearGradient861-5-9);fill-opacity:1" />
-        <g
-           id="g2396-4"
-           transform="matrix(0.56754478,0,0,0.56754478,39.916,27.223419)">
-          <path
-             style="fill:url(#linearGradient2538-8);fill-opacity:1;stroke:url(#pattern2380-9);stroke-width:0.03340869;stroke-opacity:0"
-             d="M 64.153471,89.642856 C 62.713185,89.438206 61.36912,88.955122 60.202504,88.222797 57.859475,86.752 56.217024,84.300222 55.704267,81.50803 c -0.153099,-0.833684 -0.202486,-2.026854 -0.119028,-2.875733 0.285438,-2.903392 1.81165,-5.740077 4.060581,-7.547186 1.329878,-1.068613 2.878619,-1.795661 4.509942,-2.117175 0.832522,-0.164081 0.924216,-0.171995 1.968823,-0.169963 1.076312,0.0021 1.391491,0.0351 2.211173,0.23155 1.391322,0.333452 2.764494,1.008496 3.885795,1.910239 1.030193,0.828471 1.926283,1.929611 2.512714,3.08769 0.18883,0.372904 0.468185,1.036428 0.445783,1.058831 -0.0058,0.0058 -0.211582,-0.05123 -0.457189,-0.126844 -0.573495,-0.176551 -1.245857,-0.341842 -1.788219,-0.439608 -0.388768,-0.07008 -0.527687,-0.07735 -1.481372,-0.07754 -1.156595,-2.33e-4 -1.370648,0.02479 -2.168377,0.25351 -1.878587,0.538594 -3.477091,1.864776 -4.749025,3.939977 -0.58601,0.956087 -0.914172,1.775864 -1.096293,2.738612 -0.344681,1.822101 0.03461,3.999629 0.980646,5.629992 0.482322,0.831217 1.242357,1.701035 2.048777,2.344724 0.270794,0.216146 0.32742,0.275609 0.28129,0.295381 -0.03177,0.01363 -0.553874,0.0295 -1.160243,0.0353 -0.822209,0.0079 -1.187419,-0.0016 -1.436574,-0.03693 z"
-             id="path1781-0"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:url(#linearGradient2546-9);fill-opacity:1;stroke:#000000;stroke-width:0.09449405;stroke-opacity:0"
-             d="m 73.912441,91.305837 c -1.27567,-0.12323 -3.331617,-0.53075 -5.49929,-1.09004 -1.117097,-0.28823 -2.045854,-0.53882 -2.063906,-0.55687 -0.01805,-0.0181 0.173061,-0.0587 0.42469,-0.0902 1.683629,-0.2113 2.577476,-0.60518 3.524123,-1.552922 1.492412,-1.494137 2.75557,-3.737679 8.065871,-14.326082 1.746345,-3.482104 3.397261,-6.668553 3.668694,-7.080996 1.513964,-2.300444 3.677235,-3.751678 6.347476,-4.258215 1.027432,-0.1949 3.420076,-0.193966 4.748896,0.0019 1.61264,0.237646 3.95269,0.793266 5.89969,1.400816 l 0.70871,0.221146 -0.94494,0.04964 c -1.52046,0.07988 -2.59549,0.559851 -3.70039,1.65213 -1.85724,1.836044 -3.35169,4.597808 -8.62601,15.940953 -1.499539,3.224969 -2.556052,5.37528 -2.880955,5.863574 -0.949931,1.42766 -2.371593,2.583346 -3.94154,3.204106 -1.522577,0.60204 -3.599074,0.82709 -5.731119,0.62114 z"
-             id="path1791-7"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:url(#linearGradient2554-9);fill-opacity:1;stroke:url(#meshgradient1029);stroke-width:0.09449405;stroke-opacity:0"
-             d="m 98.711135,84.655195 c -2.41317,-0.43147 -4.70386,-1.83422 -6.16771,-3.77689 -0.51833,-0.687872 -1.40616,-2.322222 -1.31242,-2.415953 0.0252,-0.02516 0.25374,0.04356 0.50796,0.152707 1.35931,0.583623 3.36959,0.761947 4.7617,0.422391 2.18075,-0.531916 3.945895,-1.779587 5.169565,-3.654041 1.46416,-2.242884 1.80571,-4.859869 0.96443,-7.38953 -0.41933,-1.260901 -0.92485,-2.054055 -1.978,-3.103493 l -0.919265,-0.916012 0.523605,-0.06542 c 1.26828,-0.158459 3.08726,0.117004 4.46066,0.675521 2.94224,1.19651 5.22778,3.998762 5.91119,7.247573 0.4524,2.150621 0.15704,4.558109 -0.81816,6.668926 -1.36876,2.962677 -3.97422,5.158421 -7.09332,5.977891 -0.88334,0.23207 -3.142815,0.33142 -4.010235,0.17633 z"
-             id="path1789-1"
-             inkscape:connector-curvature="0" />
-        </g>
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot2556-4"
-           style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.15016289,0,0,0.15016289,71.440253,62.527498)"><flowRegion
-             id="flowRegion2558-1"
-             style="font-size:26.66666794px"><rect
-               id="rect2560-8"
-               width="100.71429"
-               height="110.71429"
-               x="210.35715"
-               y="0.26981863"
-               style="font-size:26.66666794px" /></flowRegion><flowPara
-             id="flowPara2562-4">Science</flowPara></flowRoot>        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:6.33116484px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.15827912;paint-order:stroke fill markers"
-           x="101.66685"
-           y="70.703217"
-           id="text2566-5"
-           transform="scale(1.024994,0.97561547)"><tspan
-             sodipodi:role="line"
-             x="101.66685"
-             y="70.703217"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
-             id="tspan2568-4">SPP Italy 2019</tspan><tspan
-             sodipodi:role="line"
-             x="101.66685"
-             y="77.034378"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861121px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
-             id="tspan2574-9">Science | Policy |Public</tspan></text>
-        <g
-           id="g2396-5-6"
-           transform="matrix(0.56754479,0,0,0.56754479,39.975658,43.920279)" />
-        <g
-           id="g2396-5-4-6"
-           transform="matrix(0.56754479,0,0,0.56754479,40.035316,60.617139)" />
-      </g>
-      <g
-         transform="translate(-37.516075,43.543335)"
-         id="g984-2-4">
-        <g
-           id="g1796-2-0-7"
-           transform="matrix(0.56754479,0,0,0.56754479,57.941576,46.4945)"
-           style="fill:url(#linearGradient1200);fill-opacity:1" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot2556-9-2-1"
-           style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.15016289,0,0,0.15016289,71.499912,79.224359)"><flowRegion
-             id="flowRegion2558-2-55-5"
-             style="font-size:26.66666794px"><rect
-               id="rect2560-2-7-5"
-               width="100.71429"
-               height="110.71429"
-               x="210.35715"
-               y="0.26981863"
-               style="font-size:26.66666794px" /></flowRegion><flowPara
-             id="flowPara2562-3-5-7">Science</flowPara></flowRoot>        <g
-           id="g1796-2-2-5-8"
-           transform="matrix(0.56754479,0,0,0.56754479,58.001234,63.19136)"
-           style="fill:url(#linearGradient1202);fill-opacity:1" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot2556-9-4-1-0"
-           style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.15016289,0,0,0.15016289,71.55957,95.921219)"><flowRegion
-             id="flowRegion2558-2-5-6-0"
-             style="font-size:26.66666794px"><rect
-               id="rect2560-2-1-9-5"
-               width="100.71429"
-               height="110.71429"
-               x="210.35715"
-               y="0.26981863"
-               style="font-size:26.66666794px" /></flowRegion><flowPara
-             id="flowPara2562-3-7-8-4">Science</flowPara></flowRoot>        <g
-           id="g1796-0-1"
-           transform="matrix(0.56754478,0,0,0.56754478,57.881917,29.79764)"
-           style="fill:url(#linearGradient1025-1);fill-opacity:1" />
-        <g
-           id="g2396-4-1"
-           transform="matrix(0.56754478,0,0,0.56754478,39.916,27.223419)">
-          <path
-             style="fill:url(#linearGradient2538-8-9);fill-opacity:1;stroke:url(#pattern2380-9-1);stroke-width:0.03340869;stroke-opacity:0"
-             d="M 64.153471,89.642856 C 62.713185,89.438206 61.36912,88.955122 60.202504,88.222797 57.859475,86.752 56.217024,84.300222 55.704267,81.50803 c -0.153099,-0.833684 -0.202486,-2.026854 -0.119028,-2.875733 0.285438,-2.903392 1.81165,-5.740077 4.060581,-7.547186 1.329878,-1.068613 2.878619,-1.795661 4.509942,-2.117175 0.832522,-0.164081 0.924216,-0.171995 1.968823,-0.169963 1.076312,0.0021 1.391491,0.0351 2.211173,0.23155 1.391322,0.333452 2.764494,1.008496 3.885795,1.910239 1.030193,0.828471 1.926283,1.929611 2.512714,3.08769 0.18883,0.372904 0.468185,1.036428 0.445783,1.058831 -0.0058,0.0058 -0.211582,-0.05123 -0.457189,-0.126844 -0.573495,-0.176551 -1.245857,-0.341842 -1.788219,-0.439608 -0.388768,-0.07008 -0.527687,-0.07735 -1.481372,-0.07754 -1.156595,-2.33e-4 -1.370648,0.02479 -2.168377,0.25351 -1.878587,0.538594 -3.477091,1.864776 -4.749025,3.939977 -0.58601,0.956087 -0.914172,1.775864 -1.096293,2.738612 -0.344681,1.822101 0.03461,3.999629 0.980646,5.629992 0.482322,0.831217 1.242357,1.701035 2.048777,2.344724 0.270794,0.216146 0.32742,0.275609 0.28129,0.295381 -0.03177,0.01363 -0.553874,0.0295 -1.160243,0.0353 -0.822209,0.0079 -1.187419,-0.0016 -1.436574,-0.03693 z"
-             id="path1781-0-8"
-             inkscape:connector-curvature="0" />
-          <path
-             style="opacity:1;fill:url(#linearGradient1966);fill-opacity:1;stroke:url(#linearGradient1958);stroke-width:0.09449405;stroke-opacity:0"
-             d="m 73.912441,91.305837 c -1.27567,-0.12323 -3.331617,-0.53075 -5.49929,-1.09004 -1.117097,-0.28823 -2.045854,-0.53882 -2.063906,-0.55687 -0.01805,-0.0181 0.173061,-0.0587 0.42469,-0.0902 1.683629,-0.2113 2.577476,-0.60518 3.524123,-1.552922 1.492412,-1.494137 2.75557,-3.737679 8.065871,-14.326082 1.746345,-3.482104 3.397261,-6.668553 3.668694,-7.080996 1.513964,-2.300444 3.677235,-3.751678 6.347476,-4.258215 1.027432,-0.1949 3.420076,-0.193966 4.748896,0.0019 1.61264,0.237646 3.95269,0.793266 5.89969,1.400816 l 0.70871,0.221146 -0.94494,0.04964 c -1.52046,0.07988 -2.59549,0.559851 -3.70039,1.65213 -1.85724,1.836044 -3.35169,4.597808 -8.62601,15.940953 -1.499539,3.224969 -2.556052,5.37528 -2.880955,5.863574 -0.949931,1.42766 -2.371593,2.583346 -3.94154,3.204106 -1.522577,0.60204 -3.599074,0.82709 -5.731119,0.62114 z"
-             id="path1791-7-5"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:url(#linearGradient2554-9-7);fill-opacity:1;stroke:url(#meshgradient1204);stroke-width:0.09449405;stroke-opacity:0"
-             d="m 98.711135,84.655195 c -2.41317,-0.43147 -4.70386,-1.83422 -6.16771,-3.77689 -0.51833,-0.687872 -1.40616,-2.322222 -1.31242,-2.415953 0.0252,-0.02516 0.25374,0.04356 0.50796,0.152707 1.35931,0.583623 3.36959,0.761947 4.7617,0.422391 2.18075,-0.531916 3.945895,-1.779587 5.169565,-3.654041 1.46416,-2.242884 1.80571,-4.859869 0.96443,-7.38953 -0.41933,-1.260901 -0.92485,-2.054055 -1.978,-3.103493 l -0.919265,-0.916012 0.523605,-0.06542 c 1.26828,-0.158459 3.08726,0.117004 4.46066,0.675521 2.94224,1.19651 5.22778,3.998762 5.91119,7.247573 0.4524,2.150621 0.15704,4.558109 -0.81816,6.668926 -1.36876,2.962677 -3.97422,5.158421 -7.09332,5.977891 -0.88334,0.23207 -3.142815,0.33142 -4.010235,0.17633 z"
-             id="path1789-1-2"
-             inkscape:connector-curvature="0" />
-        </g>
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot2556-4-8"
-           style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.15016289,0,0,0.15016289,71.440253,62.527498)"><flowRegion
-             id="flowRegion2558-1-3"
-             style="font-size:26.66666794px"><rect
-               id="rect2560-8-9"
-               width="100.71429"
-               height="110.71429"
-               x="210.35715"
-               y="0.26981863"
-               style="font-size:26.66666794px" /></flowRegion><flowPara
-             id="flowPara2562-4-2">Science</flowPara></flowRoot>        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:6.33116484px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.15827912;paint-order:stroke fill markers"
-           x="101.66685"
-           y="70.703217"
-           id="text2566-5-3"
-           transform="scale(1.024994,0.97561547)"><tspan
-             sodipodi:role="line"
-             x="101.66685"
-             y="70.703217"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
-             id="tspan2568-4-9">SPP Italy 2019</tspan><tspan
-             sodipodi:role="line"
-             x="101.66685"
-             y="77.034378"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861121px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
-             id="tspan2574-9-5">Science | Policy |Public</tspan></text>
-        <g
-           id="g2396-5-6-8"
-           transform="matrix(0.56754479,0,0,0.56754479,39.975658,43.920279)" />
-        <g
-           id="g2396-5-4-6-7"
-           transform="matrix(0.56754479,0,0,0.56754479,40.035316,60.617139)" />
-      </g>
-    </g>
+     transform="translate(-33.821146,-72.422155)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2556-9"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15016289,0,0,0.15016289,33.891281,89.146234)"><flowRegion
+         id="flowRegion2558-2"
+         style="font-size:26.66666794px"><rect
+           id="rect2560-2"
+           width="100.71429"
+           height="110.71429"
+           x="210.35715"
+           y="0.26981863"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara2562-3">Science</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2556-9-4"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15016289,0,0,0.15016289,33.950939,105.84309)"><flowRegion
+         id="flowRegion2558-2-5"
+         style="font-size:26.66666794px"><rect
+           id="rect2560-2-1"
+           width="100.71429"
+           height="110.71429"
+           x="210.35715"
+           y="0.26981863"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara2562-3-7">Science</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path1781"
+       d="m 38.717337,88.021629 c -0.817427,-0.116148 -1.580244,-0.39032 -2.242351,-0.805947 -1.329774,-0.834743 -2.261938,-2.226237 -2.552951,-3.810931 -0.08689,-0.473153 -0.11492,-1.15033 -0.06755,-1.632107 0.161999,-1.647805 1.028193,-3.257751 2.304562,-4.283366 0.754765,-0.606486 1.633745,-1.019118 2.559594,-1.201592 0.472493,-0.09312 0.524534,-0.09761 1.117395,-0.09646 0.610855,0.0012 0.789733,0.01992 1.25494,0.131415 0.789637,0.189249 1.568974,0.572367 2.205362,1.084147 0.584681,0.470194 1.093252,1.09514 1.426078,1.752402 0.10717,0.21164 0.265716,0.588219 0.253002,0.600934 -0.0033,0.0033 -0.120082,-0.02907 -0.259475,-0.07199 -0.325484,-0.1002 -0.70708,-0.19401 -1.014895,-0.249497 -0.220643,-0.03977 -0.299486,-0.0439 -0.840745,-0.04401 -0.656419,-1.33e-4 -0.777904,0.01407 -1.230651,0.143878 -1.066182,0.305676 -1.973404,1.058344 -2.695284,2.236113 -0.332587,0.542623 -0.518834,1.007883 -0.622195,1.554285 -0.195622,1.034124 0.01964,2.269969 0.55656,3.195273 0.273739,0.471753 0.705093,0.965413 1.162773,1.330736 0.153688,0.122672 0.185825,0.15642 0.159645,0.167642 -0.01803,0.0077 -0.314349,0.01674 -0.65849,0.02003 -0.466641,0.0045 -0.673914,-9.08e-4 -0.81532,-0.02096 z"
+       style="fill:url(#linearGradient2538);fill-opacity:1;stroke:url(#pattern2380);stroke-width:0.01896093;stroke-opacity:0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1791"
+       d="m 44.255989,88.965445 c -0.724,-0.06994 -1.890842,-0.301224 -3.121093,-0.618646 -0.634003,-0.163584 -1.161114,-0.305805 -1.171359,-0.316049 -0.01025,-0.01027 0.09822,-0.03332 0.24103,-0.05119 0.955535,-0.119922 1.462833,-0.343466 2.000098,-0.881352 0.847011,-0.84799 1.563909,-2.121301 4.577743,-8.130693 0.991129,-1.97625 1.928098,-3.784703 2.082148,-4.018783 0.859242,-1.305605 2.086996,-2.129245 3.602477,-2.416727 0.583114,-0.110615 1.941046,-0.110085 2.695211,0.0011 0.915245,0.134875 2.243329,0.450214 3.348338,0.795026 l 0.402225,0.12551 -0.536296,0.02817 c -0.862929,0.04533 -1.473057,0.31774 -2.100137,0.937658 -1.054067,1.042037 -1.902234,2.609462 -4.895647,9.047204 -0.851055,1.830315 -1.450674,3.050712 -1.635071,3.327841 -0.539128,0.810261 -1.345985,1.466165 -2.237,1.818474 -0.864131,0.341684 -2.042636,0.46941 -3.252667,0.352525 z"
+       style="fill:url(#linearGradient2546);fill-opacity:1;stroke:#000000;stroke-width:0.05362961;stroke-opacity:0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1789"
+       d="m 58.330358,85.190908 c -1.369582,-0.244879 -2.669651,-1.041002 -3.500451,-2.143554 -0.294176,-0.390398 -0.798059,-1.317965 -0.744857,-1.371162 0.0143,-0.01428 0.144008,0.02472 0.28829,0.08667 0.771469,0.331233 1.912393,0.432439 2.702478,0.239726 1.237673,-0.301886 2.239472,-1.009995 2.933959,-2.073832 0.830977,-1.272937 1.024822,-2.758193 0.547358,-4.193889 -0.237989,-0.715618 -0.524894,-1.165768 -1.122604,-1.761371 l -0.521724,-0.519878 0.297169,-0.03713 c 0.719806,-0.08993 1.752158,0.06641 2.531624,0.383389 1.669853,0.679073 2.967,2.269476 3.354866,4.113322 0.256757,1.220574 0.08913,2.586931 -0.464343,3.784914 -0.776833,1.681452 -2.255548,2.927635 -4.025777,3.392721 -0.501335,0.13171 -1.783688,0.188096 -2.275988,0.100074 z"
+       style="fill:url(#linearGradient2554);fill-opacity:1;stroke:url(#meshgradient2434);stroke-width:0.05362961;stroke-opacity:0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2556"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15016289,0,0,0.15016289,33.831622,72.449373)"><flowRegion
+         id="flowRegion2558"
+         style="font-size:26.66666794px"><rect
+           id="rect2560"
+           width="100.71429"
+           height="110.71429"
+           x="210.35715"
+           y="0.26981863"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara2562">Science</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.33116484px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.15827912;paint-order:stroke fill markers"
+       x="64.975288"
+       y="80.873077"
+       id="text2566"
+       transform="scale(1.024994,0.97561547)"><tspan
+         sodipodi:role="line"
+         x="64.975288"
+         y="80.873077"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
+         id="tspan2568">SPP Italy 2019</tspan><tspan
+         sodipodi:role="line"
+         x="64.975288"
+         y="87.204239"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861121px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
+         id="tspan2574">Science | Policy | Public</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2556-9-2"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15016289,0,0,0.15016289,33.890312,105.95696)"><flowRegion
+         id="flowRegion2558-2-55"
+         style="font-size:26.66666794px"><rect
+           id="rect2560-2-7"
+           width="100.71429"
+           height="110.71429"
+           x="210.35715"
+           y="0.26981863"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara2562-3-5">Science</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2556-9-4-1"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15016289,0,0,0.15016289,33.94997,122.65382)"><flowRegion
+         id="flowRegion2558-2-5-6"
+         style="font-size:26.66666794px"><rect
+           id="rect2560-2-1-9"
+           width="100.71429"
+           height="110.71429"
+           x="210.35715"
+           y="0.26981863"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara2562-3-7-8">Science</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path1781-0"
+       d="m 38.716368,104.83236 c -0.817427,-0.11615 -1.580244,-0.39032 -2.242351,-0.80595 -1.329774,-0.83474 -2.261938,-2.22624 -2.552951,-3.81093 -0.08689,-0.473153 -0.11492,-1.15033 -0.06755,-1.632107 0.161999,-1.647805 1.028193,-3.257751 2.304562,-4.283366 0.754765,-0.606486 1.633745,-1.019118 2.559594,-1.201592 0.472493,-0.09312 0.524534,-0.09762 1.117395,-0.09646 0.610855,0.0012 0.789733,0.01992 1.25494,0.131415 0.789637,0.189249 1.568974,0.572367 2.205362,1.084147 0.584681,0.470194 1.093252,1.09514 1.426078,1.752402 0.10717,0.21164 0.265716,0.588219 0.253002,0.600934 -0.0033,0.0033 -0.120082,-0.02908 -0.259475,-0.07199 -0.325484,-0.1002 -0.70708,-0.19401 -1.014895,-0.249497 -0.220643,-0.03977 -0.299486,-0.0439 -0.840745,-0.04401 -0.656419,-1.33e-4 -0.777904,0.01407 -1.230651,0.143878 -1.066182,0.305676 -1.973404,1.058344 -2.695284,2.236113 -0.332587,0.542623 -0.518834,1.007883 -0.622195,1.554283 -0.195622,1.03413 0.01964,2.26997 0.55656,3.19528 0.273739,0.47175 0.705093,0.96541 1.162773,1.33073 0.153688,0.12267 0.185825,0.15642 0.159645,0.16764 -0.01803,0.008 -0.314349,0.0168 -0.65849,0.02 -0.466641,0.004 -0.673914,-9.1e-4 -0.81532,-0.021 z"
+       style="fill:url(#linearGradient2538-8);fill-opacity:1;stroke:url(#pattern2380-9);stroke-width:0.01896093;stroke-opacity:0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1791-7"
+       d="m 44.25502,105.77617 c -0.724,-0.0699 -1.890842,-0.30122 -3.121093,-0.61864 -0.634003,-0.16359 -1.161114,-0.30581 -1.171359,-0.31605 -0.01024,-0.0103 0.09822,-0.0333 0.24103,-0.0512 0.955535,-0.11993 1.462833,-0.34347 2.000098,-0.88136 0.847011,-0.84799 1.563909,-2.1213 4.577743,-8.130689 0.991129,-1.97625 1.928098,-3.784703 2.082148,-4.018783 0.859242,-1.305605 2.086996,-2.129245 3.602477,-2.416727 0.583114,-0.110615 1.941046,-0.110085 2.695211,0.0011 0.915245,0.134875 2.243329,0.450214 3.348338,0.795026 l 0.402225,0.12551 -0.536296,0.02817 c -0.862929,0.04533 -1.473057,0.31774 -2.100137,0.937658 -1.054067,1.042037 -1.902234,2.609462 -4.895647,9.047205 -0.851055,1.83031 -1.450674,3.05071 -1.635071,3.32784 -0.539128,0.81026 -1.345985,1.46617 -2.237,1.81847 -0.864131,0.34169 -2.042636,0.46942 -3.252667,0.35253 z"
+       style="fill:url(#linearGradient2546-9);fill-opacity:1;stroke:#000000;stroke-width:0.05362961;stroke-opacity:0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1789-1"
+       d="m 58.329389,102.00164 c -1.369582,-0.24488 -2.669651,-1.041 -3.500451,-2.143557 -0.294176,-0.390398 -0.798059,-1.317965 -0.744857,-1.371162 0.0143,-0.01428 0.144008,0.02472 0.28829,0.08667 0.771469,0.331233 1.912393,0.432439 2.702478,0.239726 1.237673,-0.301886 2.239472,-1.009995 2.933959,-2.073832 0.830977,-1.272937 1.024822,-2.758193 0.547358,-4.193889 -0.237989,-0.715618 -0.524894,-1.165768 -1.122604,-1.761371 l -0.521724,-0.519878 0.297169,-0.03713 c 0.719806,-0.08993 1.752158,0.06641 2.531624,0.383389 1.669853,0.679073 2.967,2.269476 3.354866,4.113322 0.256757,1.220574 0.08913,2.586931 -0.464343,3.784914 -0.776833,1.681448 -2.255548,2.927638 -4.025777,3.392718 -0.501335,0.13171 -1.783688,0.1881 -2.275988,0.10008 z"
+       style="fill:url(#linearGradient2554-9);fill-opacity:1;stroke:url(#meshgradient1029);stroke-width:0.05362961;stroke-opacity:0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2556-4"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15016289,0,0,0.15016289,33.830653,89.260102)"><flowRegion
+         id="flowRegion2558-1"
+         style="font-size:26.66666794px"><rect
+           id="rect2560-8"
+           width="100.71429"
+           height="110.71429"
+           x="210.35715"
+           y="0.26981863"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara2562-4">Science</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.33116484px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.15827912;paint-order:stroke fill markers"
+       x="64.974342"
+       y="98.103973"
+       id="text2566-5"
+       transform="scale(1.024994,0.97561547)"><tspan
+         sodipodi:role="line"
+         x="64.974342"
+         y="98.103973"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
+         id="tspan2568-4">SPP Italy 2019</tspan><tspan
+         sodipodi:role="line"
+         x="64.974342"
+         y="104.43513"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861121px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
+         id="tspan2574-9">Science | Policy | Public</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2556-9-2-1"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15016289,0,0,0.15016289,33.983837,122.76769)"><flowRegion
+         id="flowRegion2558-2-55-5"
+         style="font-size:26.66666794px"><rect
+           id="rect2560-2-7-5"
+           width="100.71429"
+           height="110.71429"
+           x="210.35715"
+           y="0.26981863"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara2562-3-5-7">Science</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2556-9-4-1-0"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15016289,0,0,0.15016289,34.043495,139.46455)"><flowRegion
+         id="flowRegion2558-2-5-6-0"
+         style="font-size:26.66666794px"><rect
+           id="rect2560-2-1-9-5"
+           width="100.71429"
+           height="110.71429"
+           x="210.35715"
+           y="0.26981863"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara2562-3-7-8-4">Science</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path1781-0-8"
+       d="m 38.809893,121.64309 c -0.817427,-0.11615 -1.580244,-0.39032 -2.242351,-0.80595 -1.329774,-0.83474 -2.261938,-2.22624 -2.552951,-3.81093 -0.08689,-0.47315 -0.11492,-1.15033 -0.06755,-1.63211 0.161999,-1.6478 1.028193,-3.25775 2.304562,-4.28336 0.754765,-0.60649 1.633745,-1.01912 2.559594,-1.20159 0.472493,-0.0931 0.524534,-0.0976 1.117395,-0.0965 0.610855,10e-4 0.789733,0.0199 1.25494,0.13142 0.789637,0.18925 1.568974,0.57237 2.205362,1.08415 0.584681,0.47019 1.093252,1.09514 1.426078,1.7524 0.10717,0.21164 0.265716,0.58822 0.253002,0.60093 -0.0033,0.003 -0.120082,-0.0291 -0.259475,-0.072 -0.325484,-0.1002 -0.70708,-0.19401 -1.014895,-0.24949 -0.220643,-0.0398 -0.299486,-0.0439 -0.840745,-0.044 -0.656419,-1.3e-4 -0.777904,0.0141 -1.230651,0.14388 -1.066182,0.30567 -1.973404,1.05834 -2.695284,2.23611 -0.332587,0.54262 -0.518834,1.00788 -0.622195,1.55428 -0.195622,1.03413 0.01964,2.26997 0.55656,3.19528 0.273739,0.47175 0.705093,0.96541 1.162773,1.33073 0.153688,0.12268 0.185825,0.15642 0.159645,0.16764 -0.01803,0.008 -0.314349,0.0168 -0.65849,0.02 -0.466641,0.004 -0.673914,-9.1e-4 -0.81532,-0.021 z"
+       style="fill:url(#linearGradient2538-8-9);fill-opacity:1;stroke:url(#pattern2380-9-1);stroke-width:0.01896093;stroke-opacity:0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1791-7-5"
+       d="m 44.348545,122.58691 c -0.724,-0.0699 -1.890842,-0.30123 -3.121093,-0.61865 -0.634003,-0.16358 -1.161114,-0.30581 -1.171359,-0.31605 -0.01024,-0.0103 0.09822,-0.0333 0.24103,-0.0512 0.955535,-0.11992 1.462833,-0.34347 2.000098,-0.88136 0.847011,-0.84798 1.563909,-2.1213 4.577743,-8.13069 0.991129,-1.97625 1.928098,-3.7847 2.082148,-4.01878 0.859242,-1.30561 2.086996,-2.12925 3.602477,-2.41673 0.583114,-0.11061 1.941046,-0.11008 2.695211,10e-4 0.915245,0.13487 2.243329,0.45021 3.348338,0.79503 l 0.402225,0.12551 -0.536296,0.0282 c -0.862929,0.0453 -1.473057,0.31774 -2.100137,0.93766 -1.054067,1.04203 -1.902234,2.60946 -4.895647,9.0472 -0.851055,1.83032 -1.450674,3.05071 -1.635071,3.32784 -0.539128,0.81026 -1.345985,1.46617 -2.237,1.81848 -0.864131,0.34168 -2.042636,0.46941 -3.252667,0.35252 z"
+       style="opacity:1;fill:url(#linearGradient1966);fill-opacity:1;stroke:url(#linearGradient1958);stroke-width:0.05362961;stroke-opacity:0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1789-1-2"
+       d="m 58.422914,118.81237 c -1.369582,-0.24488 -2.669651,-1.041 -3.500451,-2.14356 -0.294176,-0.39039 -0.798059,-1.31796 -0.744857,-1.37116 0.0143,-0.0143 0.144008,0.0247 0.28829,0.0867 0.771469,0.33123 1.912393,0.43244 2.702478,0.23973 1.237673,-0.30189 2.239472,-1.01 2.933959,-2.07384 0.830977,-1.27293 1.024822,-2.75819 0.547358,-4.19388 -0.237989,-0.71562 -0.524894,-1.16577 -1.122604,-1.76138 l -0.521724,-0.51987 0.297169,-0.0371 c 0.719806,-0.0899 1.752158,0.0664 2.531624,0.38339 1.669853,0.67907 2.967,2.26947 3.354866,4.11332 0.256757,1.22057 0.08913,2.58693 -0.464343,3.78491 -0.776833,1.68145 -2.255548,2.92764 -4.025777,3.39272 -0.501335,0.13171 -1.783688,0.1881 -2.275988,0.10008 z"
+       style="fill:url(#linearGradient2554-9-7);fill-opacity:1;stroke:url(#meshgradient1204);stroke-width:0.05362961;stroke-opacity:0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2556-4-8"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15016289,0,0,0.15016289,33.924178,106.07083)"><flowRegion
+         id="flowRegion2558-1-3"
+         style="font-size:26.66666794px"><rect
+           id="rect2560-8-9"
+           width="100.71429"
+           height="110.71429"
+           x="210.35715"
+           y="0.26981863"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara2562-4-2">Science</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.33116484px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.15827912;paint-order:stroke fill markers"
+       x="65.065582"
+       y="115.33488"
+       id="text2566-5-3"
+       transform="scale(1.024994,0.97561547)"><tspan
+         sodipodi:role="line"
+         x="65.065582"
+         y="115.33488"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
+         id="tspan2568-4-9">SPP Italy 2019</tspan><tspan
+         sodipodi:role="line"
+         x="65.065582"
+         y="121.66604"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861121px;line-height:1;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15827912;paint-order:stroke fill markers"
+         id="tspan2574-9-5">Science | Policy | Public</tspan></text>
   </g>
 </svg>
