@@ -56,8 +56,8 @@ navigationLinks:
 bottomNavigationLinks:
  - {permalink: "/assets/SPP_Italy_sponsorship_new2.pdf", text: "Become a Sponsor"}
 rightNavigationButtons:
- #- {permalink: "/#tickets", text: "Register"}
- - {permalink: "/#subscribe", text: "Subscribe for Updates"}
+ - {permalink: "/#tickets", text: "Register"}
+ #- {permalink: "/#subscribe", text: "Subscribe for Updates"}
  - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Call for Posters"}
 
 # Hero Block
@@ -67,7 +67,7 @@ eventDate: "Saturday 26th October 2019"
 typeoutTextValues: '"", "Science ", "Policy ", "Public "'
 typeoutFallback: ""
 heroButtons:
- #- {permalink: "/#tickets", text: "Register"} # TODO
+ - {permalink: "/#tickets", text: "Register"}
  - {permalink: "/#subscribe", text: "Subscribe for Updates"} # TODO
 # - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Submit a poster"}
  - {permalink: "/assets/SPP_Italy_sponsorship_new2.pdf", text: "Become a sponsor"}
@@ -141,7 +141,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://eepurl.com/gkpERj"
-subscribeInfo: "Registration will be open soon. Tickets are limited in number. Stay tuned!"
+subscribeInfo: "Registration is now open! Tickets are limited in number, so we recommend to secure a place soon."
 
 # TODO Add Eventbrite link
 # Tickets Block
@@ -149,12 +149,12 @@ ticketsTitle: "Register"
 ticketsInfo: "Tickets are free and grant access to all conference sections, coffee brakes, and lunch. Accommodation is NOT included in the ticket."
 ticketsOffers:
  -
-  name: ""
-  price: ""
-  priceCurrency: ""
+  name: "Free"
+  price: "0"
+  priceCurrency: "£"
   ticketsNumber: "180"
-  buyButtonLink: "" # TODO
-  buyButtonText: "Coming soon"
+  buyButtonLink: "https://www.eventbrite.co.uk/e/spp-italy-2019-tickets-62927803755?aff=efbeventtix&fbclid=IwAR3bRqf72B0cOPozhX58GFncvF50kVjrF0UxwH1dQLbAhGhayq-jSsCexjQ" # TODO
+  buyButtonText: "Reserve now"
   ticketContentList: ["SPP 2019 Cambridge Symposium"]
   validFrom: "2019-04-01T10:00"
   validThrough: "2019-10-25T23:59"
