@@ -16,7 +16,7 @@ description: ""
 baseurl: "/conference"
 url: "https://spp2019.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "" #TODO
+googleAnalyticsTrackingId: "BYKorwlPaNe_p_k4MtJpgw4HCosH_u-Yry7faU3a0Ao" #TODO
 googleAnalyticsSiteUrl: "spp2019.github.io"
 siteVerification: "" #TODO
 
