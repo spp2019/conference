@@ -18,7 +18,7 @@ url: "https://spp2019.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "BYKorwlPaNe_p_k4MtJpgw4HCosH_u-Yry7faU3a0Ao" #TODO
 googleAnalyticsSiteUrl: "spp2019.github.io"
-siteVerification: "" #TODO
+siteVerification: "BYKorwlPaNe_p_k4MtJpgw4HCosH_u-Yry7faU3a0Ao" #TODO
 
 # Organizer Info
 organizerName: "SPP"
@@ -152,7 +152,7 @@ ticketsOffers:
   name: "Free"
   price: "0"
   priceCurrency: "£"
-  ticketsNumber: "180"
+  ticketsNumber: "100"
   buyButtonLink: "https://www.eventbrite.co.uk/e/spp-italy-2019-tickets-62927803755?aff=efbeventtix&fbclid=IwAR3bRqf72B0cOPozhX58GFncvF50kVjrF0UxwH1dQLbAhGhayq-jSsCexjQ" # TODO
   buyButtonText: "Reserve now"
   ticketContentList: ["SPP 2019 Cambridge Symposium"]
