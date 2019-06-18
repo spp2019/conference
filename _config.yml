@@ -16,9 +16,9 @@ description: ""
 baseurl: "/conference"
 url: "https://spp2019.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "BYKorwlPaNe_p_k4MtJpgw4HCosH_u-Yry7faU3a0Ao" #TODO
+googleAnalyticsTrackingId: "" #TODO
 googleAnalyticsSiteUrl: "spp2019.github.io"
-siteVerification: "BYKorwlPaNe_p_k4MtJpgw4HCosH_u-Yry7faU3a0Ao" #TODO
+siteVerification: "5ekSGlRQ9WT2cNINb9_R5xptA1uqGYOqosPzQ5iEpRo" #TODO
 
 # Organizer Info
 organizerName: "SPP"
