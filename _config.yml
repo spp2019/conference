@@ -146,7 +146,7 @@ subscribeInfo: "Registration is now open! Tickets are limited in number, so we r
 # TODO Add Eventbrite link
 # Tickets Block
 ticketsTitle: "Register"
-ticketsInfo: "Tickets are free and grant access to all conference sections, coffee brakes, and lunch. Accommodation is NOT included in the ticket."
+ticketsInfo: "Tickets are free and grant access to all conference sections and catering. Accommodation is NOT included in the ticket."
 ticketsOffers:
  -
   name: "Free"
