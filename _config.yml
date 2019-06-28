@@ -44,6 +44,7 @@ c4sponsorsUrl: "/assets/SPP_Italy_sponsorship_new2.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#about", text: "About"}
 # - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Speakers"}
@@ -175,7 +176,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "spp2019"
 
 # Speakers List Block
 showSessions: true
