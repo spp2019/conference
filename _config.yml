@@ -1,6 +1,7 @@
 # Plugins
 plugins:
 - jekyll-sitemap
+- jekyll-seo-tag
 safe: false
 
 # Build Settings
@@ -8,25 +9,23 @@ markdown: kramdown
 permalink: pretty
 exclude: ['vendor', '/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-# TODO: Add Google Analytics
 # Site Settings
 title: "Science Policy and the Public in Italy"
 email: "spp2019.cambridge@gmail.com"
-description: ""
+description: "SPP Italy 2019 is a one-day conference exploring the relationship between science, policy and the public in Italy. In the globalised world we live in, it has never been easier for researchers to move across borders. Science and technological innovation are seen by many as an international enterprise. However, most policy decisions are still taken by governments at the national and local level. SPP Italy will give researchers working in the UK the opportunity to engage with policymakers and science communicators from Italy and to reflect on the way science can support good policy decisions. The discussion will focus on important policy issues from 3 areas of science and technology: energy and the environment, public health and biotechnologies, and digital technologies. The conference will invite Italian researchers, as well as other researchers with an interest in Italian affairs, to meet with policymakers and science communicators from Italy. Young researchers (PhD and Postdoc level) will be given the chance to engage in science policy by presenting research evidence in their field of expertise."
 baseurl: "/conference"
 url: "https://spp2019.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "" #TODO
+googleAnalyticsTrackingId: "UA-136324175-1"
 googleAnalyticsSiteUrl: "spp2019.github.io"
-siteVerification: "5ekSGlRQ9WT2cNINb9_R5xptA1uqGYOqosPzQ5iEpRo" #TODO
-
+siteVerification: "5ekSGlRQ9WT2cNINb9_R5xptA1uqGYOqosPzQ5iEpRo"
 # Organizer Info
-organizerName: "SPP"
-organizerAlternateName: ""
-organizerDescription: ""
+organizerName: "Science Policy Public, Cambridge University Italian Society, Association of Italian Scientists in the UK"
+organizerAlternateName: "SPP, CuItSoc, AISUK"
+organizerDescription: "SPP Italy 2019 is organised by a group of PhD students and researchers who wish to improve the interaction between academics, policymakers and science communicators."
 organizerEmail: "spp2019.cambridge@gmail.com"
 organizerLogo: ""
-organizerLink: ""
+organizerLink: "http://www.cuitaliansociety.org.uk/"
 
 # Head
 metaKeywords: "science, policy, research, public, Italy, UK"
@@ -37,8 +36,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 # link al google doc (per call for posters)
-c4pUrl: "" 
-#"https://goo.gl/forms/Gt6H2bYdD0xSncHF2"
+c4pUrl: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2"
 # go to pdf "how to become sponsor"
 c4sponsorsUrl: "/assets/SPP_Italy_sponsorship_new2.pdf"
 
@@ -136,7 +134,6 @@ organizersTitle: "Organisers"
 partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
-# TODO Add subscribe action to MailChimp mailing list
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
@@ -153,7 +150,7 @@ ticketsOffers:
   price: "0"
   priceCurrency: "£"
   ticketsNumber: "100"
-  buyButtonLink: "https://www.eventbrite.co.uk/e/spp-italy-2019-tickets-62927803755?aff=efbeventtix&fbclid=IwAR3bRqf72B0cOPozhX58GFncvF50kVjrF0UxwH1dQLbAhGhayq-jSsCexjQ" # TODO
+  buyButtonLink: "https://www.eventbrite.co.uk/e/spp-italy-2019-tickets-62927803755?aff=efbeventtix&fbclid=IwAR3bRqf72B0cOPozhX58GFncvF50kVjrF0UxwH1dQLbAhGhayq-jSsCexjQ"
   buyButtonText: "Reserve now"
   ticketContentList: ["SPP 2019 Cambridge Symposium"]
   validFrom: "2019-04-01T10:00"
