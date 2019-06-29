@@ -46,11 +46,12 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#about", text: "About"}
+ - {permalink: "/sponsors", text: "Sponsors"}
 # - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Committee"}
  - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Call for Posters"}
- - {permalink: "/#venue", text: "Venue"}
+# - {permalink: "/#venue", text: "Venue"}
 
 bottomNavigationLinks:
  - {permalink: "/assets/SPP_Italy_sponsorship_new2.pdf", text: "Become a Sponsor"}
@@ -185,5 +186,18 @@ showSessions: true
 teamBlockTitle: ""
 #About us"
 aboutUs: "SPP Italy 2019 is organised by a group of PhD students and researchers who wish to improve the interaction between academics, policymakers and science communicators. If you would like to talk to us about anything (collaborations, sponsorship, ideas), do not hesitate to get in touch! We can be reached at <a href=\"mailto:spp2019.cambridge@gmail.com\">spp2019.cambridge@gmail.com</a>"
+
+# Sponsors Block
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: true
+
+# Hackathon About Block
+aboutSponsorsTitle: "Meet our sponsors"
+sponsorsRows:
+ - {title: "The Integer Group", image: "integer.svg", details: "Integer Italy is part of The Integer Group, one of the most important companies in Retail, Shopper Marketing, Promo and Activations. Integer is part of the TBWA Italy Group and is one of the key agencies of Omnicom Group Inc. We are a Commerce agency and live at the intersection between Branding and Selling®,  we create brand experiences, analyse shopper and consumer behaviours, study trends and develop marketing and communication strategies, creating both online and offline activities. Creativity is fundamental in every communication process, but our mission is always to develop great work that works, by leading the logic of retail and transforming shoppers into buyers. To reach our goals, we use proprietary tools such as Shopper Continuum and the 3Lens Model, which allow us to understand and analyse consumer e-market insights. Integer Italy has about 50 employees and The Integer Group has about 1200 employees worldwide, including locations in Africa, Asia, Australia, Europe, the Middle East, North and South America."}
+ - {title: "Serrature Meroni & Meroni Technology", image: "meroni.svg", details: "Founded in 1945 and based in Italy, Serrature Meroni S.p.A. is a leading manufacturer and major supplier to the Italian and international markets of mechanical and mechatronic closure systems for a wide range of sectors and applications such as door and furniture, utilities, vending and gaming machines, van security locks, special and customized solutions. Through the decades, Serrature Meroni has always stood out from the market as a standard-setter and breakthrough innovator. Its inbred innovation drive has recently resulted in the creation of a new smart products line under a new brand, Meroni Technology: the elephant depicts the tradition and deep company’s know-how, the word “technology” represents the entry into the field of IoT/smart solutions and the light blue in colour logo design recalls the meanings of security, trust, dependability and innovation which are all the values historically associated with the company."}
+ - {title: "PIAM Farmaceutici", image: "piam.png", details: "Founded in Genoa in 1915 by Edoardo Maragliano, the man who discovered the first tuberculosis vaccine, PIAM is an Italian pharmaceutical company that has developed its core business in specialist and ethically significant therapeutic areas with prescription drugs.Over time it has gained particular expertise in hereditary metabolic diseases. It is now able to offer a complete response for patients with disorders requiring particular nutritional therapy, throughout every phase of their lives. Here at Piam, our priorities are the different needs faced by people with unusual or rare disorders. Our approach to care derives from more than 100 years of experience alongside doctors and the scientific community. Thanks to our exclusive history and expertise, we are able to develop our offer around tangible needs faced by doctors, patients and caregivers, providing them with the necessary treatments, whether pharmacological or nutritional, as well as services to help with the effective management of their specific needs.Our expertise is the result of more than a century of involvement in the pharmaceutical sector and thirty years of research into nutritional therapy for rare diseases. We have had a single mission for more than a century, which looks set to remain the same for the next 100 years: commitment to providing appropriate and cutting-edge responses to growing health needs."}
+
 
 theme: jekyll-theme-cayman
