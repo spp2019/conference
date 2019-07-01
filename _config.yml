@@ -61,7 +61,8 @@ rightNavigationButtons:
  - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Call for Posters"}
 
 # Hero Block
-heroImage: "/kings.jpg"
+heroImage: '/Background-home-sito.jpg'
+#"/kings.jpg"
 heroTitle: "SPP <typeout> 2019"
 eventDate: "Saturday 26th October 2019"
 typeoutTextValues: '"", "Science ", "Policy ", "Public "'
@@ -119,7 +120,6 @@ venueBlockTitle: "Venue"
 venueBigImage: "ods_interno_1.jpg"
 venueSmallImage1: "ods.jpg"
 venueSmallImage2: "ods_lighfoot.jpg"
-#ods_interni.jpg"
 venueSmallImage3: "ods_lighfoot.jpg"
 venueTitle: "Old Divinity School"
 venueFeatures: ["180-seat Lecture Theatre", "Central Hall for refreshments & posters", "Auxiliary rooms for company stands"]
