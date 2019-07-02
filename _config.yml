@@ -61,7 +61,7 @@ rightNavigationButtons:
  - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Call for Posters"}
 
 # Hero Block
-heroImage: "/kings.jpg"
+heroImage: "/kings-new.png"
 heroTitle: "SPP <typeout> 2019"
 eventDate: "Saturday 26th October 2019"
 typeoutTextValues: '"", "Science ", "Policy ", "Public "'
