@@ -4,11 +4,13 @@
   surname: "Bucchi"
   company: "University of Trento"
   title: "Full Professor of Sociology of Science and Communication, Science and Technology"
-  bio: "" #"Massimiano Bucchi is a Full Professor of Sociology of Science and Communication, Science and Technology at the University of Trento"
+  bio: "Massimiano Bucchi is Full Professor of Sociology of Science and Communication, Science and Technology at the University of Trento and has been visiting professor in Asia, Europe, North America and Oceania. Since 2018, he is director of the Master in Communication of Science and Innovation. He is the author of  several books (published in more than twenty countries) and papers in journals such as Nature and Science. Among his books in English are <i>Science and the Media</i> (Routledge, 1998); <i>Science in Society</i> (Routledge, 2004); <i>Beyond Technocracy</i> (Springer, 2009). He is the editor of the international peer reviewed journal <i>Public Understanding of Science</i> (Sage) and regularly contributes to newspapers and TV programmes."
   thumbnailUrl: MassimianoBucchi.jpg
   rockstar: true
   social: 
-    - {name: "site", link: "http://www.massimianobucchi.it/"}
+    - {name: "site", link: "https://mb.soc.unitn.it/"}
+    - {name: "twitter", link: "https://twitter.com/MassiBucchi"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/massimiano-bucchi-aba7976/"}
 
 - 
   id: 2
@@ -16,12 +18,14 @@
   surname: "Cappato"
   company: "Associazione Luca Coscioni"
   title: "Treasurer"
-  bio: "" #"Marco Cappato is a human right activist, previous Member of the European Parliament, and current leader of Associazione Luca Coscioni"
+  bio: "Marco Cappato is Coordinator of the <i>World Congress for freedom of scientific Research</i>, Treasurer of <i>Luca Coscioni Association</i> and one of the promoters of <i>Science for Democracy</i>. Former member of the European Parliament (1999-2009) and EP Rapporteur on: <i>privacy in electronic communication</i>; <i>human rights in the world for 2007</i>; <i>production of opium for medical purposes in Afghanistan</i>; <i>public access to EU documents</i>. Nominated for the `Politician of the year' award organised by <i>Wired</i> in 2003; winner of the `European of the Year' award organised by <i>the European voice</i>. He is a former member of Milano City Council (2011-2016), and leader of the Italian campaign for euthanasia legalization. He is a civil disobedience activist on science, drugs and end-of-life decisions.
+"
   thumbnailUrl: MarcoCappato.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/@marcocappato"}
+    - {name: "twitter", link: "https://twitter.com/marcocappato"}
     - {name: "site", link: "http://www.marcocappato.it/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marco-cappato-a401591/ "}
 
 -
   id: 3
@@ -29,9 +33,26 @@
   surname: "Luna"
   company: "Agenzia Giornalistica Italia (AGI)"
   title: "Editor-in-chief"
-  bio: "" #"Riccardo Luna, Editor-in-chief at Agenzia Giornalistica Italia Spa (AGI), has been a Digital Champion of the Italian government, and the previous editor-in-chief of Wired Italia."
+  bio: "Riccardo Luna is editor in chief of Agi Agenzia Giornalistica Italia since October 2016. He is the Italian protagonist in the transformation of journalism in the digital age: from 2014 until last summer he was Italy's Digital Champion, a figure responsible for leading national initiatives to “help every European become digital”. In 2009 Riccardo Luna has promoted the candidacy of the Internet for the Nobel Peace Prize; in 2012 he has founded Wikitalia, the association that endeavors to promote transparency, open data and participation in Italian politics using the internet; he is vice president of Make in Italy Foundation since 2013. He has worked for the most important Italian newspapers, such as Repubblica (for more than 10 years), and he founded and has been editor of three magazines: <i>Campus</i>, <i>Il Romanista</i> and <i>Wired</i>, the online magazines <i>CheFuturo!</i> and <i>StartupItalia!<i/>, outlets and community dedicated to startupper. Luna is a presenter of tv and radio programs and he is a protagonist of several initiatives and connected events in the world of digital start-ups.
+"
   thumbnailUrl: RiccardoLuna.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/@RiccardoLuna"}
+    - {name: "twitter", link: "https://twitter.com/riccardoluna?lang=en "}
     - {name: "site", link: "https://www.agi.it/info/biografia/riccardo-luna"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/riccardoluna/?originalSubdomain=it"}
+
+-
+  id: 4
+  name: "Silvia"
+  surname: "Chiappa"
+  company: "DeepMind"
+  title: "Staff Research Scientist"
+  bio: "Silvia Chiappa is Staff Research Scientist in Machine Learning at DeepMind. She received a Diploma di Laurea in Mathematics from University of Bologna and a PhD in Machine Learning from École Polytechnique Fédérale de Lausanne (IDIAP Research Institute). Before joining DeepMind, she worked in the Empirical Inference Department at the Max-Planck Institute for Intelligent Systems (Prof. Dr. Bernhard Schölkopf), in the Machine Intelligence and Perception Group at Microsoft Research Cambridge (Prof. Christopher Bishop) and the Statistical Laboratory, University of Cambridge (Prof. Philip Dawid). Her research interests are based around Bayesian & causal reasoning, graphical models, variational inference, time-series models, deep learning, and machine learning fairness and bias."
+  thumbnailUrl: SilviaChiappa.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/csilviavr "}
+    - {name: "site", link: "https://csilviavr.github.io/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/csilviavr/"}
+    

@@ -3,6 +3,7 @@ layout: post
 title:  "Call for Papers"
 date:   2019-06-28 16:11:00
 isStaticPost: false
+image: blog.jpg
 ---
 
 #### Presenters – who should speak at SPP Italy 2019 in Cambridge?
