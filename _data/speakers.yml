@@ -55,4 +55,31 @@
     - {name: "twitter", link: "https://twitter.com/csilviavr "}
     - {name: "site", link: "https://csilviavr.github.io/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/csilviavr/"}
-    
+
+-
+  id: 5
+  name: "Elena"
+  surname: "Fattori"
+  company: "Senate of the Italian Republic"
+  title: "MP"
+  bio: "Elena Fattori is an Italian politician, currently serving as senator of the Italian Republic for the Five Star Movement. After obtaining an undergraduate degree in biology, she obtained her PhD in molecular biology from the University of Zurich in Switzerland. From 1990 to 2009 she was  a research scientist at the Istituto di Ricerche di Biologia Molecolare (IRBM) in Pomezia, Rome. She is an expert in molecular biology, translational medicine, vaccine development, gene therapy,  and virology. She was elected senator with the Five Star Movement for the first time in 2013. She is the author of “Il Medioevo In Parlamento”, in which she describes her life as a scientist in the Italian parliament, touching upon controversial topics sthe Stamina therapy, anti-vaccination movements, and animal testing."
+  thumbnailUrl: ElenaFattori.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/fattorisenato5s?lang=en"}
+    - {name: "site", link: " https://fattori5stelle.wordpress.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/elena-fattori-2493269/ "}
+
+-
+  id: 6
+  name: "Giorgia"
+  surname: "Giardina"
+  company: "University of Bath"
+  title: "Lecturer"
+  bio: "Dr. Giorgia Giardina is a lecturer in the Department of Architecture & Civil Engineering at the University of Bath. An expert in structural damage, infrastructure assessment, remote sensing, soil-structure interaction, and earthquake engineering, before her current position she obtained a PhD in Civil Engineering and Geosciences from TU Delft (Netherlands) and she was a Research Associate in the Department of Engineering at the University of Cambridge. Her latest research focuses on new space radar techniques to detect deformation in structures, and has shown promising applications in risk and damage assessment of critical infrastructure. In a collaboration with NASA's Jet Propulsion Laboratory in California, this research was applied to analyse signs of distress of the Ponte Morandi in Genoa, Italy, which collapsed in August 2018."
+  thumbnailUrl: GiorgiaGiardina.jpeg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/giogiardina?lang=en-gb"}
+    - {name: "site", link: "https://researchportal.bath.ac.uk/en/persons/giorgia-giardina"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/giorgiagiardina/?originalSubdomain=uk"}
