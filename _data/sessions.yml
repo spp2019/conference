@@ -36,7 +36,7 @@
   title: "Keynote speech"
   description: "TBA"
   subtype: keynote
-  speakers: [1]
+  speakers: [1, 4]
   language: en
   place: "Main Lecture Theatre"
 -
@@ -44,7 +44,7 @@
   title: "Energy and the environment"
   description: "TBA"
   subtype: presentation
-  speakers: []
+  speakers: [5]
   language: en
   place: "Main Lecture Theatre"
 -
@@ -60,7 +60,7 @@
   title: "Digital technologies"
   description: "TBA"
   subtype: presentation
-  speakers: [3]
+  speakers: [3, 6]
   language: en
   place: "Main Lecture Theatre"
 -
