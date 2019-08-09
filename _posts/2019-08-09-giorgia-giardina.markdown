@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Speaker Announcement - On. Elena Fattori"
+title:  "New Speaker Announcement - Dr. Giorgia Giardina"
 date:   2019-08-09 16:11:00
 isStaticPost: false
 image: blog.jpg
