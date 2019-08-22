@@ -36,7 +36,7 @@
   title: "Keynote speech"
   description: "TBA"
   subtype: keynote
-  speakers: [1, 4]
+  speakers: [1, 4, 7]
   language: en
   place: "Main Lecture Theatre"
 -
