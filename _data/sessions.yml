@@ -19,7 +19,7 @@
   service: true
 -
   id: 310
-  title: "Final remarks"
+  title: "Closing remarks"
   place: "Main Lecture Theatre"
 -
   id: 311
@@ -34,31 +34,31 @@
 -
   id: 001
   title: "Keynote speech"
-  description: "TBA"
+  description: "Science advice in the UK"
   subtype: keynote
-  speakers: [1, 4, 7]
+  speakers: [7]
   language: en
   place: "Main Lecture Theatre"
 -
   id: 002
-  title: "Energy and the environment"
-  description: "TBA"
+  title: "Keynote speech"
+  description: "Public perception and understanding of science in Italy"
   subtype: presentation
-  speakers: [5]
+  speakers: [1]
   language: en
   place: "Main Lecture Theatre"
 -
   id: 003
-  title: "Public Health and Biotechnology"
-  description: "TBA"
+  title: "Public Health and Biotechnology Panel"
+  description: ""
   subtype: presentation
-  speakers: [2]
+  speakers: [2, 8]
   language: en
   place: "Main Lecture Theatre"
 -
   id: 004
-  title: "Digital technologies"
-  description: "TBA"
+  title: "Digital technologies Panel"
+  description: ""
   subtype: presentation
   speakers: [3, 6]
   language: en
@@ -67,6 +67,38 @@
   id: 005
   title: "Panel discussion: science and policy in Italy"
   description: "TBA"
+  subtype: presentation
+  speakers: []
+  language: en
+  place: "Main Lecture Theatre"
+-
+  id: 006
+  title: "Environment and Infrastructure Panel"
+  description: ""
+  subtype: presentation
+  speakers: [5, 7]
+  language: en
+  place: "Main Lecture Theatre"
+-
+  id: 007
+  title: "Keynote speech"
+  description: "The life of a scientist in the Italian Parliament"
+  subtype: presentation
+  speakers: [4]
+  language: en
+  place: "Main Lecture Theatre"
+-
+  id: 008
+  title: "Presentation of Scienza In Parlamento"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  place: "Main Lecture Theatre"
+-
+  id: 009
+  title: "Concluding Panel"
+  description: "How can we bring more science into Italian politics?"
   subtype: presentation
   speakers: []
   language: en

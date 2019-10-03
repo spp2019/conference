@@ -80,8 +80,8 @@ aboutBlock:
 #{text: "Our society today faces unprecedented challenges, including the need for affordable and sustainable energy, "}
 
  # qui spieghiamo i temi
- - {title: "Energy and the environment<br>", image: "energy.jpg", text: "renewable energy, green transport technologies, smart cities, sustainable manufacturing" }
- - {title: "Public health and biotechnologies", image: "biotech.jpg", text: "gene editing, stem cells and regenerative medicine" }
+ - {title: "Environment and infrastructure<br>", image: "energy.jpg", text: "long-lasting infrastructure, green manufacturing, low-carbon energy" }
+ - {title: "Public health and biotechnologies", image: "biotech.jpg", text: "new therapies, genetics, psychoactive drugs, animal testing" }
  - {title: "Digital technologies<br><br>", image: "hackathon.jpg", text: "deep learning and artificial intelligence, pervasive computing, social and digital media" }
 
 aboutBlock2:
@@ -99,16 +99,16 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "St John's College"
+eventLocationName: "Old Divinity School"
 eventLocationLink: "https://www.joh.cam.ac.uk/"
-eventStreetAddress: "St Johns St"
+eventStreetAddress: "St John's College"
 eventAddressLocality: "Cambridge"
 eventAddressLocalityRegion: "Cambridgeshire"
 eventPostalCode: "CB2 1TP"
 eventAddressCountry: "United Kingdom"
-eventStartTime: "2019-10-26T10:00"
+eventStartTime: "2019-10-26T9:00"
 eventDoorTime: "09:00"
-eventEndTime: "2019-10-26T20:00"
+eventEndTime: "2019-10-26T18:00"
 eventPlaceCoordinates: "52.207899, 0.118436"
 mapCenterCoordinates: "52.207899, 0.118436"
 mapMobileCenterCoordinates: "52.207899, 0.118436"

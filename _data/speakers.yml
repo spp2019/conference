@@ -97,3 +97,31 @@
     - {name: "twitter", link: "https://twitter.com/riccardoluna?lang=en "}
     - {name: "site", link: "https://www.agi.it/info/biografia/riccardo-luna"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/riccardoluna/?originalSubdomain=it"}
+
+-
+  id: 7
+  name: "Andrea"
+  surname: "Taramelli"
+  company: "IUSS/UME Pavia - ISPRA"
+  title: "Professor"
+  bio: "Dr Andrea Taramelli is Faculty Professor at the Scuola Superiore IUSS Pavia, reader in Remote Sensing and Surface Coastal Process Science at the Institute for Environmental Protection and Research Rome, Adjunct Research Scientist at Eucentre and Lecturer at UME School, Pavia. He holds degrees from the University of Perugia and a Master in Business Administration applied to the Environment from Scuola Superiore Sant’Anna, as well as a PhD on landslide singularities (power-law concept) from the University of Perugia. After his PhD, he was a research associate at LDEO of Columbia University, assessing topography and surface changes using SAR techniques and multispectral imagery. He is an Italian national delegate at the European Commission Copernicus User Forum and Copernicus Committee and a national expert at the European Maritime Spatial Planning technical group. He is a member of the Coordination Committee for Space at the Presidenza del Consiglio dei Ministri."
+  thumbnailUrl: Taramelli.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://civrisk.unipv.it/teaching-staff/andrea-taramelli/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/andrea-taramelli-19526512/"}
+
+-
+  id: 8
+  name: "Carlo"
+  surname: "Rinaldi"
+  company: "University of Oxford"
+  title: "Dr"
+  bio: "Carlo Rinaldi completed his medical education in 2005 and his residency in adult neurology in 2010 both with distinction at the University of Federico II, Naples, Italy. In 2009 he joined the Neurogenetics Branch at the National Institute of Health (Bethesda, MD, USA) under the supervision of prof. Fischbeck, to work on the mechanisms of pathogenesis of spinal and bulbar muscular atrophy (SBMA or Kennedy's disease) and other genetic diseases of the motor unit and where he also obtained a PhD in Neuroscience with the thesis entitled: 'From Disease Gene Identification to Therapeutic Targets in Neuromuscular Diseases'. In 2015 he joined the lab of prof. Wood at the University of Oxford as a Clinical Research Fellow and in December 2016 was awarded a Stage 2 Wellcome Trust Clinical Research Career Development Fellowship. He is an Honorary Consultant Neurologist at the John Radcliffe Hospital in Oxford and at the National Hospital for Neurology and Neurosurgery in London."
+  thumbnailUrl: Rinaldi.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.paediatrics.ox.ac.uk/team/carlo-rinaldi"}
+    - {name: "linkedin", link: "https://uk.linkedin.com/in/carlo-rinaldi-63243526"}
+    - {name: "twitter", link: "https://twitter.com/rinaldi_ca"}
+
