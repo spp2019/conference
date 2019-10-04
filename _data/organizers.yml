@@ -5,9 +5,12 @@
 - 
   group: "Co-organised by"
   elements: 
-    - {name: "Cambridge University Italian Society", description: "Cambridge University Italian Society", link: "http://www.cuitaliansociety.org.uk/", image: "cuit_logo.jpg", width: "120px"}
+    - {name: "Cambridge University Italian Society", description: "Cambridge University Italian Society", link: "http://www.cuitaliansociety.org.uk/", image: "cuit_logo.svg", width: "120px"}
     - {name: "Association of Italian Scientists in the UK", description: "Association of Italian Scientists in the UK", link: "https://www.aisuk.org/", image: "aisuk_logo.png", width: "300px"}
 - 
   group: "With the partnership of"
-  elements: 
+  elements:
+    - {name: "Embassy of Italy London", description: "Embassy of Italy London", link: "https://amblondra.esteri.it/ambasciata_londra/en/", image: "ambita_logo.png", width: "800px"}
+    - {name: "UK Science and Innovation Network", description: "UK Science and Innovation Network", link: "https://www.gov.uk/world/organisations/uk-science-and-innovation-network", image: "SIN_logo.png", width: "400px"}
+    - {name: "British Embassy Rome", description: "British Embassy Rome", link: "https://www.gov.uk/world/organisations/british-embassy-rome", image: "embbr_logo.jpg", width: "800px"}
     - {name: "Centre for Science and Policy", description: "Centre for Science and Policy", link: "http://www.csap.cam.ac.uk/", image: "csap_logo_big.png", width: "800px"}
