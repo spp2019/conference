@@ -127,7 +127,7 @@ venueFeatures: ["180-seat Lecture Theatre", "Central Hall for refreshments & pos
 # Tweets Feed Block
 tweetsFeedImage: "twitter.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "spp2019"
+twitterHashTag: "SPPitaly"
 twitterFeed: "" # TODO
 
 # Partners Block
