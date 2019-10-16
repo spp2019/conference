@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#about", text: "About"}
  - {permalink: "/sponsors", text: "Sponsors"}
- - {permalink: "/schedule/", text: "Programme"}
+ - {permalink: "/schedule/", text: "Programme"} 
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Committee"}
 # - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Call for Posters"}
