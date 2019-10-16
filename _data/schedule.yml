@@ -6,9 +6,9 @@
     - {title: "Main track", color: "#90be4e"}    
   timeslots:
     - {
-    	startTime: "9:00",
-    	endTime: "9:30",
-    	sessionIds: [0,306]
+    startTime: "9:00",
+    endTime: "9:30",
+    sessionIds: [0,306]
     }
     - {
     	startTime: "9:30",
@@ -51,24 +51,24 @@
     	sessionIds: [7]
     }
     - {
-    	startTime: "15:15",
-    	endTime: "16:15",
-    	sessionIds: [4]
+        startTime: "15:15",
+        endTime: "15:30",
+        sessionIds: [307]
     }
     - {
-        startTime: "16:15",
-        endTime: "16:30",
-        sessionIds: [307]
+    	startTime: "15:30",
+    	endTime: "16:30",
+    	sessionIds: [4]
     }
     - {
     	startTime: "16:30",
     	endTime: "16:45",
-    	sessionIds: [8]
+    	sessionIds: [118]
     }
     - {
     	startTime: "16:45",
     	endTime: "17:45",
-    	sessionIds: [9]
+    	sessionIds: [119]
     }
     - {
     	startTime: "17:45",

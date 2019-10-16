@@ -76,7 +76,7 @@
   title: "Environment and Infrastructure Panel"
   description: ""
   subtype: presentation
-  speakers: [5, 7]
+  speakers: [5, 9]
   language: en
   place: "Main Lecture Theatre"
 -
@@ -88,18 +88,17 @@
   language: en
   place: "Main Lecture Theatre"
 -
-  id: 008
+  id: 118
   title: "Presentation of Scienza In Parlamento"
-  description: ""
   subtype: presentation
   speakers: []
   language: en
   place: "Main Lecture Theatre"
 -
-  id: 009
+  id: 119
   title: "Concluding Panel"
   description: "How can we bring more science into Italian politics?"
   subtype: presentation
-  speakers: []
+  speakers: [4]
   language: en
   place: "Main Lecture Theatre"
