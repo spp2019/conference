@@ -1,6 +1,6 @@
 -
   id: 306
-  title: "Registration and coffee"
+  title: "Registration"
   place: "Central Hall"
   service: true
 -
@@ -96,9 +96,9 @@
   place: "Main Lecture Theatre"
 -
   id: 119
-  title: "Concluding Panel"
-  description: "How can we bring more science into Italian politics?"
+  title: "Concluding Panel: <em> How can we bring more science into Italian politics? </em>"
+  description: ""
   subtype: presentation
-  speakers: [4]
+  speakers: []
   language: en
   place: "Main Lecture Theatre"

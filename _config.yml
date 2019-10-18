@@ -56,9 +56,10 @@ navigationLinks:
 bottomNavigationLinks:
  - {permalink: "/assets/SPP_Italy_sponsorship_new2.pdf", text: "Become a Sponsor"}
 rightNavigationButtons:
+ - {permalink: "/#booklet", text: "Booklet"}
  - {permalink: "/#tickets", text: "Register"}
  #- {permalink: "/#subscribe", text: "Subscribe for Updates"}
- - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Call for Posters"}
+ #- {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Call for Posters"}
 
 # Hero Block
 heroImage: "/kings-new.png"
@@ -67,7 +68,7 @@ eventDate: "Saturday 26th October 2019"
 typeoutTextValues: '"", "Science ", "Policy ", "Public "'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/#tickets", text: "Register"}
+ - {permalink: "/#booklet", text: "Booklet"}
 # - {permalink: "/#subscribe", text: "Subscribe for Updates"} # TODO
 # - {link: "https://goo.gl/forms/Gt6H2bYdD0xSncHF2", text: "Submit a poster"}
  - {permalink: "/assets/SPP_Italy_sponsorship_new2.pdf", text: "Become a sponsor"}
